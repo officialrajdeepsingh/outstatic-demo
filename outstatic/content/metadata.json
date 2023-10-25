@@ -1,6 +1,6 @@
 {
-  "commit": "146dc86840f4aec14c5c9156f4ca9ce650f40dae",
-  "generated": "2023-10-25T11:50:07.937Z",
+  "commit": "8eab114e9811a5dacb7411a666f3ab8b30b6f86a",
+  "generated": "Wed, 25 Oct 2023 11:50:15 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,7 +22,7 @@
     },
     {
       "__outstatic": {
-        "commit": "146dc86840f4aec14c5c9156f4ca9ce650f40dae",
+        "commit": "00decc93e92ae3ffcbd8f4930cb9bf92d1879191",
         "hash": "1740899524",
         "path": "outstatic/content/posts/second-post.md"
       },
