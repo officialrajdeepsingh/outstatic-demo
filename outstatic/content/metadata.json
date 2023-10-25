@@ -1,25 +1,7 @@
 {
-  "commit": "338cf33260d2caa72596d014fb8d7b4b6ac15e73",
-  "generated": "Wed, 25 Oct 2023 11:34:44 GMT",
+  "commit": "f58547388cdbb13502a199430df7555cf6e79158",
+  "generated": "2023-10-25T11:41:53.024Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "4820478faf3e0f5e50c7652cb19866efe0fd82a0",
-        "hash": "1472998674",
-        "path": "outstatic/content/posts/second-post.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-10-25T11:30:11.715Z",
-      "slug": "second-post",
-      "status": "published",
-      "title": "Second Post"
-    },
     {
       "__outstatic": {
         "commit": "21a359d99183c734e6f2337b516fc4cf13633f7b",
@@ -37,6 +19,24 @@
       "slug": "hello-how-are-you",
       "status": "published",
       "title": "Hello, How are you"
+    },
+    {
+      "__outstatic": {
+        "commit": "f58547388cdbb13502a199430df7555cf6e79158",
+        "hash": "1109438172",
+        "path": "outstatic/content/posts/second-post.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "My description is second post",
+      "publishedAt": "2023-10-25T11:30:11.715Z",
+      "slug": "second-post",
+      "status": "published",
+      "title": "Second Post"
     }
   ]
 }
