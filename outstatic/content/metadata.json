@@ -1,6 +1,6 @@
 {
   "commit": "146dc86840f4aec14c5c9156f4ca9ce650f40dae",
-  "generated": "2023-10-25T11:49:27.661Z",
+  "generated": "2023-10-25T11:50:07.937Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,7 +23,7 @@
     {
       "__outstatic": {
         "commit": "146dc86840f4aec14c5c9156f4ca9ce650f40dae",
-        "hash": "3083068830",
+        "hash": "1740899524",
         "path": "outstatic/content/posts/second-post.md"
       },
       "author": {
@@ -31,7 +31,7 @@
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "",
+      "coverImage": "https://cdn.pixabay.com/photo/2023/08/13/00/50/swallowtail-8186655_1280.jpg",
       "description": "My description is second post.",
       "publishedAt": "2023-10-25T11:30:11.715Z",
       "slug": "second-post",
