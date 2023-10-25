@@ -10,5 +10,5 @@ coverImage: ''
 publishedAt: '2023-10-25T11:30:11.715Z'
 ---
 
-My second post is from outstatic cms
+My second post is from out static CMS.
 

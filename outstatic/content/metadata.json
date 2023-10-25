@@ -1,6 +1,6 @@
 {
   "commit": "f58547388cdbb13502a199430df7555cf6e79158",
-  "generated": "2023-10-25T11:41:53.024Z",
+  "generated": "2023-10-25T11:42:03.971Z",
   "metadata": [
     {
       "__outstatic": {
@@ -23,7 +23,7 @@
     {
       "__outstatic": {
         "commit": "f58547388cdbb13502a199430df7555cf6e79158",
-        "hash": "1109438172",
+        "hash": "3120025219",
         "path": "outstatic/content/posts/second-post.md"
       },
       "author": {
