@@ -1,6 +1,6 @@
 {
-  "commit": "dfcf5400349fb3e9a929cafddb8a2274d667e41e",
-  "generated": "2023-11-03T18:03:57.658Z",
+  "commit": "794d99bb5adf476bf840f342c4d03d8f31397f54",
+  "generated": "2023-11-03T18:05:04.800Z",
   "metadata": [
     {
       "__outstatic": {
@@ -130,8 +130,8 @@
     },
     {
       "__outstatic": {
-        "commit": "dfcf5400349fb3e9a929cafddb8a2274d667e41e",
-        "hash": "4114959840",
+        "commit": "794d99bb5adf476bf840f342c4d03d8f31397f54",
+        "hash": "333346005",
         "path": "outstatic/content/posts/15-common-misconceptions-about-health.md"
       },
       "author": {
