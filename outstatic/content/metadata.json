@@ -1,6 +1,6 @@
 {
-  "commit": "711c79c7cf5c9a598a689237aa93cb238f82e6a8",
-  "generated": "2023-11-03T17:41:43.397Z",
+  "commit": "84efef9f79ad991e0b762d608b2c61349543b24f",
+  "generated": "2023-11-03T17:47:01.001Z",
   "metadata": [
     {
       "__outstatic": {
@@ -76,8 +76,8 @@
     },
     {
       "__outstatic": {
-        "commit": "711c79c7cf5c9a598a689237aa93cb238f82e6a8",
-        "hash": "1984691894",
+        "commit": "84efef9f79ad991e0b762d608b2c61349543b24f",
+        "hash": "130034202",
         "path": "outstatic/content/posts/7-useful-tips-from-python-experts-in-programming.md"
       },
       "author": {
