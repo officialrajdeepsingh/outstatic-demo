@@ -1,6 +1,6 @@
 {
   "commit": "bfca38eb802ec06617834f3c85e4c0f1cfe01698",
-  "generated": "2023-11-03T18:29:39.891Z",
+  "generated": "2023-11-03T18:29:55.976Z",
   "metadata": [
     {
       "__outstatic": {
@@ -185,7 +185,7 @@
     {
       "__outstatic": {
         "commit": "bfca38eb802ec06617834f3c85e4c0f1cfe01698",
-        "hash": "923094356",
+        "hash": "804198224",
         "path": "outstatic/content/posts/cillum-cupidatat-proident-fugiat-aute.md"
       },
       "author": {
@@ -194,7 +194,7 @@
       },
       "collection": "posts",
       "coverImage": "https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_1280.jpg",
-      "description": "",
+      "description": "Pariatur laboris laboris reprehenderit excepteur esse incididunt elit culpa.",
       "publishedAt": "2023-11-03T18:56:46.654Z",
       "slug": "cillum-cupidatat-proident-fugiat-aute",
       "status": "published",

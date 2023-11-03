@@ -5,7 +5,7 @@ author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 slug: 'cillum-cupidatat-proident-fugiat-aute'
-description: ''
+description: 'Pariatur laboris laboris reprehenderit excepteur esse incididunt elit culpa.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_1280.jpg'
 publishedAt: '2023-11-03T18:56:46.654Z'
 ---
