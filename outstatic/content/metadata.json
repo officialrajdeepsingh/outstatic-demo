@@ -1,6 +1,6 @@
 {
-  "commit": "118052b2603248a23138360d5e57d76f4eeb3252",
-  "generated": "2023-11-03T18:22:35.762Z",
+  "commit": "d0a64b9ced6b20a59d4da33b3ae1681e60d7ac21",
+  "generated": "2023-11-03T18:22:53.984Z",
   "metadata": [
     {
       "__outstatic": {
@@ -166,8 +166,8 @@
     },
     {
       "__outstatic": {
-        "commit": "118052b2603248a23138360d5e57d76f4eeb3252",
-        "hash": "800794180",
+        "commit": "d0a64b9ced6b20a59d4da33b3ae1681e60d7ac21",
+        "hash": "4184746130",
         "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
       },
       "author": {
@@ -176,7 +176,7 @@
       },
       "collection": "posts",
       "coverImage": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
-      "description": "",
+      "description": "Irure tempor nisi consequat et veniam ad est.",
       "publishedAt": "2023-11-03T18:46:38.898Z",
       "slug": "python-vs-rust-vs-javascript",
       "status": "published",

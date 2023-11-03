@@ -5,7 +5,7 @@ author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 slug: 'python-vs-rust-vs-javascript'
-description: ''
+description: 'Irure tempor nisi consequat et veniam ad est.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg'
 publishedAt: '2023-11-03T18:46:38.898Z'
 ---
@@ -84,7 +84,7 @@ while True:
             break
 ```
 
-### Rust 
+### Rust
 
 In dolor nostrud laborum aliqua aliquip irure consectetur non qui reprehenderit qui labore.
 
