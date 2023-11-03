@@ -1,0 +1,13 @@
+{
+  "title": "headers",
+  "type": "object",
+  "properties": {
+    "title": {
+      "required": false,
+      "description": "title is here",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "title"
+    }
+  }
+}
