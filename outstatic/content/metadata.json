@@ -1,6 +1,6 @@
 {
-  "commit": "8e2813b55f7c4ea8d0e6930946b8643569b04b66",
-  "generated": "2023-11-03T18:39:03.888Z",
+  "commit": "212c0e972cd4f07d9e555c722476394af90c3af2",
+  "generated": "2023-11-03T18:44:41.836Z",
   "metadata": [
     {
       "__outstatic": {
@@ -181,6 +181,24 @@
       "slug": "hello-how-are-you",
       "status": "published",
       "title": "Hello, How are you"
+    },
+    {
+      "__outstatic": {
+        "commit": "212c0e972cd4f07d9e555c722476394af90c3af2",
+        "hash": "63587417",
+        "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg",
+      "description": "Consectetur sint amet nisi",
+      "publishedAt": "2023-11-03T19:12:42.138Z",
+      "slug": "how-computer-science-is-going-to-change-your-business-strategies",
+      "status": "published",
+      "title": "How Computer Science Is Going To Change Your Business Strategies?"
     }
   ]
 }
