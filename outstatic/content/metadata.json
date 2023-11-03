@@ -1,6 +1,6 @@
 {
-  "commit": "33c9135d62c62b0d64a000c50be992610625cd71",
-  "generated": "Fri, 03 Nov 2023 17:18:04 GMT",
+  "commit": "e371c3475b9f70e341d682b080aeaabc1afa53be",
+  "generated": "Fri, 03 Nov 2023 17:23:48 GMT",
   "metadata": [
     {
       "__outstatic": {
@@ -22,24 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "21a359d99183c734e6f2337b516fc4cf13633f7b",
-        "hash": "33182132",
-        "path": "outstatic/content/posts/hello-how-are-you.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
-      "description": "My description is here",
-      "publishedAt": "2023-10-25T11:25:31.659Z",
-      "slug": "hello-how-are-you",
-      "status": "published",
-      "title": "Hello, How are you"
-    },
-    {
-      "__outstatic": {
         "commit": "00decc93e92ae3ffcbd8f4930cb9bf92d1879191",
         "hash": "1740899524",
         "path": "outstatic/content/posts/second-post.md"
@@ -55,6 +37,24 @@
       "slug": "second-post",
       "status": "published",
       "title": "Second Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "21a359d99183c734e6f2337b516fc4cf13633f7b",
+        "hash": "33182132",
+        "path": "outstatic/content/posts/hello-how-are-you.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
+      "description": "My description is here",
+      "publishedAt": "2023-10-25T11:25:31.659Z",
+      "slug": "hello-how-are-you",
+      "status": "published",
+      "title": "Hello, How are you"
     }
   ]
 }
