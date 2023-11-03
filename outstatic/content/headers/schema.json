@@ -8,6 +8,13 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "title"
+    },
+    "url": {
+      "required": true,
+      "description": "url is here",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "url"
     }
   }
 }
