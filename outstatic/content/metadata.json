@@ -1,6 +1,6 @@
 {
-  "commit": "bfca38eb802ec06617834f3c85e4c0f1cfe01698",
-  "generated": "2023-11-03T18:29:55.976Z",
+  "commit": "07d1f4e53d918c2a15c00ff86c9f0befcaaccd27",
+  "generated": "2023-11-03T18:30:32.524Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "third-posts-are-here",
       "status": "published",
       "title": "Third posts are here"
-    },
-    {
-      "__outstatic": {
-        "commit": "00decc93e92ae3ffcbd8f4930cb9bf92d1879191",
-        "hash": "1740899524",
-        "path": "outstatic/content/posts/second-post.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/08/13/00/50/swallowtail-8186655_1280.jpg",
-      "description": "My description is second post.",
-      "publishedAt": "2023-10-25T11:30:11.715Z",
-      "slug": "second-post",
-      "status": "published",
-      "title": "Second Post"
     },
     {
       "__outstatic": {
