@@ -1,6 +1,6 @@
 {
   "commit": "8d7c4077e78b11a603b9dc3354568172a5b90cce",
-  "generated": "2023-11-03T17:10:08.130Z",
+  "generated": "2023-11-03T17:10:20.775Z",
   "metadata": [
     {
       "__outstatic": {
@@ -41,7 +41,7 @@
     {
       "__outstatic": {
         "commit": "8d7c4077e78b11a603b9dc3354568172a5b90cce",
-        "hash": "3836826450",
+        "hash": "4196753631",
         "path": "outstatic/content/posts/third-posts-are-here.md"
       },
       "author": {
@@ -49,7 +49,7 @@
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "",
+      "coverImage": "/images/flower-cyMz.jpg",
       "description": "My third post is description.",
       "publishedAt": "2023-11-03T17:39:37.310Z",
       "slug": "third-posts-are-here",
