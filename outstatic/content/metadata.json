@@ -1,100 +1,10 @@
 {
-  "commit": "ab9175728032c327cabf2069ca69c8d1acc8eaa0",
-  "generated": "2023-11-03T18:46:53.006Z",
+  "commit": "5b468378df3fe89893f6566d2df3185256d6f29b",
+  "generated": "Fri, 03 Nov 2023 18:50:51 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "00decc93e92ae3ffcbd8f4930cb9bf92d1879191",
-        "hash": "1740899524",
-        "path": "outstatic/content/posts/second-post.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/08/13/00/50/swallowtail-8186655_1280.jpg",
-      "description": "My description is second post.",
-      "publishedAt": "2023-10-25T11:30:11.715Z",
-      "slug": "second-post",
-      "status": "published",
-      "title": "Second Post"
-    },
-    {
-      "__outstatic": {
-        "commit": "197697e68926e05fc3ecab85089bb909c92ac3c5",
-        "hash": "2927173348",
-        "path": "outstatic/content/posts/5-reasons-why-you-shouldnt-learn-photography-on-your-own.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.",
-      "publishedAt": "2023-11-03T18:05:55.855Z",
-      "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
-      "status": "published",
-      "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
-    },
-    {
-      "__outstatic": {
-        "commit": "84efef9f79ad991e0b762d608b2c61349543b24f",
-        "hash": "130034202",
-        "path": "outstatic/content/posts/7-useful-tips-from-python-experts-in-programming.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/10/12/17/56/after-the-rain-8311416_1280.jpg",
-      "description": "Eiusmod quis esse aliqua sit nostrud aliquip sunt minim irure laboris reprehenderit irure ex.",
-      "publishedAt": "2023-11-03T18:12:52.253Z",
-      "slug": "7-useful-tips-from-python-experts-in-programming",
-      "status": "published",
-      "title": "7 Useful Tips From Python Experts In Programming."
-    },
-    {
-      "__outstatic": {
-        "commit": "d6c97c8b8e54bc4e4bccd7c3fd1b7cccc0ebb36d",
-        "hash": "4077116571",
-        "path": "outstatic/content/posts/7-ways-to-use-computer-science-to-your-advantage.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
-      "description": "ipsum veniam excepteur duis mollit irure cillum.",
-      "publishedAt": "2023-11-03T18:20:32.123Z",
-      "slug": "7-ways-to-use-computer-science-to-your-advantage",
-      "status": "published",
-      "title": "7 Ways To Use Computer Science To Your Advantage."
-    },
-    {
-      "__outstatic": {
-        "commit": "dbdf448ddbe84ce33ff1fe07295a73bbb9c234d4",
-        "hash": "4172425023",
-        "path": "outstatic/content/posts/10-things-you-most-likely-didnt-know-about-health.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_1280.jpg",
-      "description": "Consequat proident magna dolor labore et esse aute dolor sit ea.",
-      "publishedAt": "2023-11-03T18:26:18.976Z",
-      "slug": "10-things-you-most-likely-didnt-know-about-health",
-      "status": "published",
-      "title": "10 Things You Most Likely Didn't Know About Health."
-    },
-    {
-      "__outstatic": {
-        "commit": "794d99bb5adf476bf840f342c4d03d8f31397f54",
+        "commit": "3aefe4d69b33b8b3c3fd1837a4d75353c85b65c9",
         "hash": "404657651",
         "path": "outstatic/content/posts/15-common-misconceptions-about-health.md"
       },
@@ -112,7 +22,43 @@
     },
     {
       "__outstatic": {
-        "commit": "f5a6ed7d5cb5be334e29cbbd22c04258dc1d1788",
+        "commit": "63dff7496bed7022fac3801892b5f5a97e1ca090",
+        "hash": "130034202",
+        "path": "outstatic/content/posts/7-useful-tips-from-python-experts-in-programming.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2023/10/12/17/56/after-the-rain-8311416_1280.jpg",
+      "description": "Eiusmod quis esse aliqua sit nostrud aliquip sunt minim irure laboris reprehenderit irure ex.",
+      "publishedAt": "2023-11-03T18:12:52.253Z",
+      "slug": "7-useful-tips-from-python-experts-in-programming",
+      "status": "published",
+      "title": "7 Useful Tips From Python Experts In Programming."
+    },
+    {
+      "__outstatic": {
+        "commit": "69ae5980afeaa01fad026a0a004ce7af670d49e2",
+        "hash": "2927173348",
+        "path": "outstatic/content/posts/5-reasons-why-you-shouldnt-learn-photography-on-your-own.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.",
+      "publishedAt": "2023-11-03T18:05:55.855Z",
+      "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
+      "status": "published",
+      "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
+    },
+    {
+      "__outstatic": {
+        "commit": "eb797e2730b0bb06258616e1c017104efc55fd0c",
         "hash": "2924984927",
         "path": "outstatic/content/posts/15-facts-you-never-knew-about-photography.md"
       },
@@ -130,7 +76,25 @@
     },
     {
       "__outstatic": {
-        "commit": "d0a64b9ced6b20a59d4da33b3ae1681e60d7ac21",
+        "commit": "276c1c3e4c430688dab047ba369326bb27015e99",
+        "hash": "4172425023",
+        "path": "outstatic/content/posts/10-things-you-most-likely-didnt-know-about-health.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_1280.jpg",
+      "description": "Consequat proident magna dolor labore et esse aute dolor sit ea.",
+      "publishedAt": "2023-11-03T18:26:18.976Z",
+      "slug": "10-things-you-most-likely-didnt-know-about-health",
+      "status": "published",
+      "title": "10 Things You Most Likely Didn't Know About Health."
+    },
+    {
+      "__outstatic": {
+        "commit": "58b6619b0d03a27cb19edf796b9ffcefe9bbfded",
         "hash": "4184746130",
         "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
       },
@@ -148,25 +112,25 @@
     },
     {
       "__outstatic": {
-        "commit": "bfca38eb802ec06617834f3c85e4c0f1cfe01698",
-        "hash": "804198224",
-        "path": "outstatic/content/posts/cillum-cupidatat-proident-fugiat-aute.md"
+        "commit": "3847cc9ceaffb9c07ce4113e0221a166da72b948",
+        "hash": "4077116571",
+        "path": "outstatic/content/posts/7-ways-to-use-computer-science-to-your-advantage.md"
       },
       "author": {
         "name": "Rajdeep singh",
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_1280.jpg",
-      "description": "Pariatur laboris laboris reprehenderit excepteur esse incididunt elit culpa.",
-      "publishedAt": "2023-11-03T18:56:46.654Z",
-      "slug": "cillum-cupidatat-proident-fugiat-aute",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+      "description": "ipsum veniam excepteur duis mollit irure cillum.",
+      "publishedAt": "2023-11-03T18:20:32.123Z",
+      "slug": "7-ways-to-use-computer-science-to-your-advantage",
       "status": "published",
-      "title": "Cillum cupidatat proident fugiat aute."
+      "title": "7 Ways To Use Computer Science To Your Advantage."
     },
     {
       "__outstatic": {
-        "commit": "8e2813b55f7c4ea8d0e6930946b8643569b04b66",
+        "commit": "879f989558d87bd22cac781d98b9734901e1d3a9",
         "hash": "3570638642",
         "path": "outstatic/content/posts/hello-how-are-you.md"
       },
@@ -184,7 +148,7 @@
     },
     {
       "__outstatic": {
-        "commit": "ab9175728032c327cabf2069ca69c8d1acc8eaa0",
+        "commit": "e914f1b570ade889728e98db09f6c87f244cb37b",
         "hash": "3752383838",
         "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
       },
@@ -199,6 +163,24 @@
       "slug": "how-computer-science-is-going-to-change-your-business-strategies",
       "status": "published",
       "title": "How Computer Science Is Going To Change Your Business Strategies?"
+    },
+    {
+      "__outstatic": {
+        "commit": "f53ad674a40b5629e7ea1704f384e77982395fcf",
+        "hash": "804198224",
+        "path": "outstatic/content/posts/cillum-cupidatat-proident-fugiat-aute.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_1280.jpg",
+      "description": "Pariatur laboris laboris reprehenderit excepteur esse incididunt elit culpa.",
+      "publishedAt": "2023-11-03T18:56:46.654Z",
+      "slug": "cillum-cupidatat-proident-fugiat-aute",
+      "status": "published",
+      "title": "Cillum cupidatat proident fugiat aute."
     }
   ]
 }
