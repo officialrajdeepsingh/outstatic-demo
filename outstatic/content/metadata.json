@@ -1,6 +1,6 @@
 {
-  "commit": "212c0e972cd4f07d9e555c722476394af90c3af2",
-  "generated": "2023-11-03T18:44:41.836Z",
+  "commit": "ab9175728032c327cabf2069ca69c8d1acc8eaa0",
+  "generated": "2023-11-03T18:46:53.006Z",
   "metadata": [
     {
       "__outstatic": {
@@ -184,8 +184,8 @@
     },
     {
       "__outstatic": {
-        "commit": "212c0e972cd4f07d9e555c722476394af90c3af2",
-        "hash": "63587417",
+        "commit": "ab9175728032c327cabf2069ca69c8d1acc8eaa0",
+        "hash": "3752383838",
         "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
       },
       "author": {
