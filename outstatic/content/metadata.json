@@ -1,6 +1,6 @@
 {
-  "commit": "48f7d6b744197fe4f3175e9793789f9fe06e1760",
-  "generated": "2023-11-03T17:38:50.543Z",
+  "commit": "197697e68926e05fc3ecab85089bb909c92ac3c5",
+  "generated": "2023-11-03T17:39:09.999Z",
   "metadata": [
     {
       "__outstatic": {
@@ -58,8 +58,8 @@
     },
     {
       "__outstatic": {
-        "commit": "48f7d6b744197fe4f3175e9793789f9fe06e1760",
-        "hash": "1062082639",
+        "commit": "197697e68926e05fc3ecab85089bb909c92ac3c5",
+        "hash": "2927173348",
         "path": "outstatic/content/posts/5-reasons-why-you-shouldnt-learn-photography-on-your-own.md"
       },
       "author": {
@@ -67,7 +67,7 @@
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "/images/leaves-k4ND.jpg",
+      "coverImage": "",
       "description": "Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.",
       "publishedAt": "2023-11-03T18:05:55.855Z",
       "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
