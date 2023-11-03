@@ -1,6 +1,6 @@
 {
-  "commit": "84efef9f79ad991e0b762d608b2c61349543b24f",
-  "generated": "2023-11-03T17:47:01.001Z",
+  "commit": "d6c97c8b8e54bc4e4bccd7c3fd1b7cccc0ebb36d",
+  "generated": "2023-11-03T17:53:01.402Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,6 +91,24 @@
       "slug": "7-useful-tips-from-python-experts-in-programming",
       "status": "published",
       "title": "7 Useful Tips From Python Experts In Programming."
+    },
+    {
+      "__outstatic": {
+        "commit": "d6c97c8b8e54bc4e4bccd7c3fd1b7cccc0ebb36d",
+        "hash": "4077116571",
+        "path": "outstatic/content/posts/7-ways-to-use-computer-science-to-your-advantage.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+      "description": "ipsum veniam excepteur duis mollit irure cillum.",
+      "publishedAt": "2023-11-03T18:20:32.123Z",
+      "slug": "7-ways-to-use-computer-science-to-your-advantage",
+      "status": "published",
+      "title": "7 Ways To Use Computer Science To Your Advantage."
     }
   ]
 }
