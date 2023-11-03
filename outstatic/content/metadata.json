@@ -1,6 +1,6 @@
 {
-  "commit": "07d1f4e53d918c2a15c00ff86c9f0befcaaccd27",
-  "generated": "2023-11-03T18:30:38.355Z",
+  "commit": "8e2813b55f7c4ea8d0e6930946b8643569b04b66",
+  "generated": "2023-11-03T18:37:20.894Z",
   "metadata": [
     {
       "__outstatic": {
@@ -19,24 +19,6 @@
       "slug": "second-post",
       "status": "published",
       "title": "Second Post"
-    },
-    {
-      "__outstatic": {
-        "commit": "21a359d99183c734e6f2337b516fc4cf13633f7b",
-        "hash": "33182132",
-        "path": "outstatic/content/posts/hello-how-are-you.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
-      "description": "My description is here",
-      "publishedAt": "2023-10-25T11:25:31.659Z",
-      "slug": "hello-how-are-you",
-      "status": "published",
-      "title": "Hello, How are you"
     },
     {
       "__outstatic": {
@@ -181,6 +163,24 @@
       "slug": "cillum-cupidatat-proident-fugiat-aute",
       "status": "published",
       "title": "Cillum cupidatat proident fugiat aute."
+    },
+    {
+      "__outstatic": {
+        "commit": "8e2813b55f7c4ea8d0e6930946b8643569b04b66",
+        "hash": "303074404",
+        "path": "outstatic/content/posts/hello-how-are-you.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
+      "description": "My description is here",
+      "publishedAt": "2023-10-25T11:25:31.659Z",
+      "slug": "hello-how-are-you",
+      "status": "published",
+      "title": "Hello, How are you"
     }
   ]
 }
