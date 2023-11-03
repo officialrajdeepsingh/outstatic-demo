@@ -1,6 +1,6 @@
 {
-  "commit": "2d6dd1d1a832d7c74ec1772f87524fdedb28dc99",
-  "generated": "2023-11-03T18:28:41.670Z",
+  "commit": "bfca38eb802ec06617834f3c85e4c0f1cfe01698",
+  "generated": "2023-11-03T18:28:45.456Z",
   "metadata": [
     {
       "__outstatic": {
@@ -184,8 +184,8 @@
     },
     {
       "__outstatic": {
-        "commit": "2d6dd1d1a832d7c74ec1772f87524fdedb28dc99",
-        "hash": "3087324259",
+        "commit": "bfca38eb802ec06617834f3c85e4c0f1cfe01698",
+        "hash": "1296971142",
         "path": "outstatic/content/posts/cillum-cupidatat-proident-fugiat-aute.md"
       },
       "author": {
@@ -197,7 +197,7 @@
       "description": "",
       "publishedAt": "2023-11-03T18:56:46.654Z",
       "slug": "cillum-cupidatat-proident-fugiat-aute",
-      "status": "draft",
+      "status": "published",
       "title": "Cillum cupidatat proident fugiat aute."
     }
   ]

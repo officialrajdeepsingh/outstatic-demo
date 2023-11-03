@@ -1,6 +1,6 @@
 ---
 title: 'Cillum cupidatat proident fugiat aute.'
-status: 'draft'
+status: 'published'
 author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
@@ -35,6 +35,4 @@ Esse ut est quis esse deserunt laboris non reprehenderit cupidatat esse fugiat. 
 Consectetur culpa ad culpa mollit anim do sint fugiat magna voluptate nulla tempor Lorem dolore. Culpa in ex consectetur reprehenderit et fugiat non.
 
 Ex commodo labore occaecat ipsum aliquip incididunt fugiat deserunt. Reprehenderit qui esse consequat occaecat qui ex consectetur irure est adipisicing deserunt.
-
-
 
