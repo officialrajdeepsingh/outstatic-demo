@@ -1,6 +1,6 @@
 {
-  "commit": "8eab114e9811a5dacb7411a666f3ab8b30b6f86a",
-  "generated": "Wed, 25 Oct 2023 11:50:15 GMT",
+  "commit": "563d123d01c18539ce830b64fe141083261cc1ad",
+  "generated": "2023-11-03T17:09:52.623Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,6 +37,24 @@
       "slug": "second-post",
       "status": "published",
       "title": "Second Post"
+    },
+    {
+      "__outstatic": {
+        "commit": "563d123d01c18539ce830b64fe141083261cc1ad",
+        "hash": "2797598856",
+        "path": "outstatic/content/posts/third-posts-are-here.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/flower-g2Mz.jpg",
+      "description": "My third post is description.",
+      "publishedAt": "2023-11-03T17:39:37.310Z",
+      "slug": "third-posts-are-here",
+      "status": "published",
+      "title": "Third posts are here"
     }
   ]
 }
