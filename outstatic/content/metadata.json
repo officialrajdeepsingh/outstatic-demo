@@ -1,6 +1,6 @@
 {
-  "commit": "f5a6ed7d5cb5be334e29cbbd22c04258dc1d1788",
-  "generated": "2023-11-03T18:13:02.320Z",
+  "commit": "118052b2603248a23138360d5e57d76f4eeb3252",
+  "generated": "2023-11-03T18:22:35.762Z",
   "metadata": [
     {
       "__outstatic": {
@@ -163,6 +163,24 @@
       "slug": "15-facts-you-never-knew-about-photography",
       "status": "published",
       "title": "15 Facts You Never Knew About Photography"
+    },
+    {
+      "__outstatic": {
+        "commit": "118052b2603248a23138360d5e57d76f4eeb3252",
+        "hash": "800794180",
+        "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
+      "description": "",
+      "publishedAt": "2023-11-03T18:46:38.898Z",
+      "slug": "python-vs-rust-vs-javascript",
+      "status": "published",
+      "title": "Python vs Rust vs JavaScript "
     }
   ]
 }
