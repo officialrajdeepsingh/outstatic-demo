@@ -28,6 +28,10 @@
         {
           "value": "photography",
           "label": "Photography"
+        },
+        {
+          "value": "health",
+          "label": "Health"
         }
       ]
     }

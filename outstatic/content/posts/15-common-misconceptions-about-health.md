@@ -7,6 +7,7 @@ author:
 slug: '15-common-misconceptions-about-health'
 description: 'Do consectetur culpa pariatur nulla fugiat. '
 coverImage: 'https://cdn.pixabay.com/photo/2020/04/04/07/32/raspberries-and-blackberries-5001160_1280.jpg'
+tags: [{"label":"Health","value":"health"}]
 publishedAt: '2023-11-03T18:33:20.346Z'
 ---
 
@@ -17,8 +18,6 @@ In consequat laboris et excepteur laboris proident eu Lorem laboris veniam in ve
 Tempor fugiat do ut dolore veniam qui. Sunt officia pariatur nulla nulla esse exercitation aliqua.
 
 Anim aute id et do sint est dolore in minim. Anim consequat incididunt non laboris non sunt non.
-
-
 
 ### Proident Pariatur
 

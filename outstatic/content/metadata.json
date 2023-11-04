@@ -1,25 +1,7 @@
 {
-  "commit": "565242b431115df9b16093f7ab052f8fd8f81e29",
-  "generated": "2023-11-04T09:16:25.610Z",
+  "commit": "817972e91f99bb9b4f939cac03cec802665ac372",
+  "generated": "2023-11-04T09:16:39.968Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "3aefe4d69b33b8b3c3fd1837a4d75353c85b65c9",
-        "hash": "404657651",
-        "path": "outstatic/content/posts/15-common-misconceptions-about-health.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2020/04/04/07/32/raspberries-and-blackberries-5001160_1280.jpg",
-      "description": "Do consectetur culpa pariatur nulla fugiat. ",
-      "publishedAt": "2023-11-03T18:33:20.346Z",
-      "slug": "15-common-misconceptions-about-health",
-      "status": "published",
-      "title": "15 Common Misconceptions About Health"
-    },
     {
       "__outstatic": {
         "commit": "63dff7496bed7022fac3801892b5f5a97e1ca090",
@@ -233,6 +215,30 @@
         }
       ],
       "title": "15 Facts You Never Knew About Photography"
+    },
+    {
+      "__outstatic": {
+        "commit": "817972e91f99bb9b4f939cac03cec802665ac372",
+        "hash": "4098652200",
+        "path": "outstatic/content/posts/15-common-misconceptions-about-health.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2020/04/04/07/32/raspberries-and-blackberries-5001160_1280.jpg",
+      "description": "Do consectetur culpa pariatur nulla fugiat. ",
+      "publishedAt": "2023-11-03T18:33:20.346Z",
+      "slug": "15-common-misconceptions-about-health",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Health",
+          "value": "health"
+        }
+      ],
+      "title": "15 Common Misconceptions About Health"
     }
   ]
 }
