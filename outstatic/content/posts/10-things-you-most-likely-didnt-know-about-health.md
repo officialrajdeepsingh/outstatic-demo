@@ -7,6 +7,7 @@ author:
 slug: '10-things-you-most-likely-didnt-know-about-health'
 description: 'Consequat proident magna dolor labore et esse aute dolor sit ea.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_1280.jpg'
+tags: [{"value":"health","label":"Health"}]
 publishedAt: '2023-11-03T18:26:18.976Z'
 ---
 
