@@ -7,6 +7,7 @@ author:
 slug: '7-ways-to-use-computer-science-to-your-advantage'
 description: 'ipsum veniam excepteur duis mollit irure cillum.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg'
+tags: [{"value":"computerScience","label":"computer science"}]
 publishedAt: '2023-11-03T18:20:32.123Z'
 ---
 
@@ -35,6 +36,4 @@ Veniam aliquip enim do voluptate incididunt et aliqua id ipsum eu. Enim aliqua d
 ### Conclusion
 
 Voluptate excepteur veniam elit dolore labore sint. Tempor voluptate enim nostrud fugiat.
-
-
 

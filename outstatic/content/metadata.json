@@ -1,6 +1,6 @@
 {
-  "commit": "90a28cc9b2e85e695530ad6e6062f3f71241e031",
-  "generated": "2023-11-04T09:16:56.355Z",
+  "commit": "57399102c96e8cb2127d814b359e367b15400e08",
+  "generated": "2023-11-04T09:17:10.108Z",
   "metadata": [
     {
       "__outstatic": {
@@ -37,24 +37,6 @@
       "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
       "status": "published",
       "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
-    },
-    {
-      "__outstatic": {
-        "commit": "3847cc9ceaffb9c07ce4113e0221a166da72b948",
-        "hash": "4077116571",
-        "path": "outstatic/content/posts/7-ways-to-use-computer-science-to-your-advantage.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
-      "description": "ipsum veniam excepteur duis mollit irure cillum.",
-      "publishedAt": "2023-11-03T18:20:32.123Z",
-      "slug": "7-ways-to-use-computer-science-to-your-advantage",
-      "status": "published",
-      "title": "7 Ways To Use Computer Science To Your Advantage."
     },
     {
       "__outstatic": {
@@ -245,6 +227,30 @@
         }
       ],
       "title": "10 Things You Most Likely Didn't Know About Health."
+    },
+    {
+      "__outstatic": {
+        "commit": "57399102c96e8cb2127d814b359e367b15400e08",
+        "hash": "1236498371",
+        "path": "outstatic/content/posts/7-ways-to-use-computer-science-to-your-advantage.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+      "description": "ipsum veniam excepteur duis mollit irure cillum.",
+      "publishedAt": "2023-11-03T18:20:32.123Z",
+      "slug": "7-ways-to-use-computer-science-to-your-advantage",
+      "status": "published",
+      "tags": [
+        {
+          "label": "computer science",
+          "value": "computerScience"
+        }
+      ],
+      "title": "7 Ways To Use Computer Science To Your Advantage."
     }
   ]
 }
