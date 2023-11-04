@@ -1,6 +1,6 @@
 {
-  "commit": "8142e597ed17fd4a7fc8de449403b61e692d4fd9",
-  "generated": "2023-11-04T13:27:26.377Z",
+  "commit": "61762bd61be8bc5db3e6123bb274638f74d10e4d",
+  "generated": "2023-11-04T16:20:44.373Z",
   "metadata": [
     {
       "__outstatic": {
@@ -252,30 +252,6 @@
     },
     {
       "__outstatic": {
-        "commit": "9fc3a411401191b19eec8d8219dde3433d21748d",
-        "hash": "363516842",
-        "path": "outstatic/content/posts/hello-world.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget feugiat turpis. Sed sed tortor odio. ",
-      "publishedAt": "2023-11-04T09:51:20.420Z",
-      "slug": "hello-world",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Hello world",
-          "value": "helloWorld"
-        }
-      ],
-      "title": "Hello world"
-    },
-    {
-      "__outstatic": {
         "commit": "8142e597ed17fd4a7fc8de449403b61e692d4fd9",
         "hash": "623286131",
         "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
@@ -297,6 +273,30 @@
         }
       ],
       "title": "How Computer Science Is Going To Change Your Business Strategies?"
+    },
+    {
+      "__outstatic": {
+        "commit": "61762bd61be8bc5db3e6123bb274638f74d10e4d",
+        "hash": "3496142325",
+        "path": "outstatic/content/posts/hello-world.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget feugiat turpis. Sed sed tortor odio. ",
+      "publishedAt": "2023-11-04T09:51:20.420Z",
+      "slug": "hello-world",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Hello world",
+          "value": "helloWorld"
+        }
+      ],
+      "title": "Hello world"
     }
   ]
 }
