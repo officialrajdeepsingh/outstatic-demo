@@ -1,25 +1,7 @@
 {
-  "commit": "fccaeb0d54e41b15a9428403d6a16803f509b333",
-  "generated": "2023-11-04T09:17:51.561Z",
+  "commit": "27ae6aca3627778845a09e691b3da9fb6faafd9a",
+  "generated": "2023-11-04T09:18:10.796Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "879f989558d87bd22cac781d98b9734901e1d3a9",
-        "hash": "3570638642",
-        "path": "outstatic/content/posts/hello-how-are-you.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
-      "description": "Lorem aliqua cupidatat laborum anim. Ad eu minim qui dolor. Ea ad deserunt ut deserunt. ",
-      "publishedAt": "2023-10-25T11:25:31.659Z",
-      "slug": "hello-how-are-you",
-      "status": "published",
-      "title": "Hello, How are you"
-    },
     {
       "__outstatic": {
         "commit": "4ff7beb9411ea89058c076e17cbc70fc41564a52",
@@ -267,6 +249,30 @@
         }
       ],
       "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
+    },
+    {
+      "__outstatic": {
+        "commit": "27ae6aca3627778845a09e691b3da9fb6faafd9a",
+        "hash": "1891252881",
+        "path": "outstatic/content/posts/hello-how-are-you.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
+      "description": "Lorem aliqua cupidatat laborum anim. Ad eu minim qui dolor. Ea ad deserunt ut deserunt. ",
+      "publishedAt": "2023-10-25T11:25:31.659Z",
+      "slug": "hello-how-are-you",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Hello world",
+          "value": "helloWorld"
+        }
+      ],
+      "title": "Hello, How are you"
     }
   ]
 }

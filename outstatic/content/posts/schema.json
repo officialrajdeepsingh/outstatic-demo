@@ -36,6 +36,10 @@
         {
           "value": "python",
           "label": "Python"
+        },
+        {
+          "value": "helloWorld",
+          "label": "Hello world"
         }
       ]
     }
