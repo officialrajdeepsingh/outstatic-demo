@@ -1,25 +1,7 @@
 {
-  "commit": "1e065ebf751cf030d96274b2d19f0b2bbe62a04f",
-  "generated": "2023-11-04T09:17:35.716Z",
+  "commit": "fccaeb0d54e41b15a9428403d6a16803f509b333",
+  "generated": "2023-11-04T09:17:51.561Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "69ae5980afeaa01fad026a0a004ce7af670d49e2",
-        "hash": "2927173348",
-        "path": "outstatic/content/posts/5-reasons-why-you-shouldnt-learn-photography-on-your-own.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.",
-      "publishedAt": "2023-11-03T18:05:55.855Z",
-      "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
-      "status": "published",
-      "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
-    },
     {
       "__outstatic": {
         "commit": "879f989558d87bd22cac781d98b9734901e1d3a9",
@@ -261,6 +243,30 @@
         }
       ],
       "title": "7 Useful Tips From Python Experts In Programming."
+    },
+    {
+      "__outstatic": {
+        "commit": "fccaeb0d54e41b15a9428403d6a16803f509b333",
+        "hash": "2134724316",
+        "path": "outstatic/content/posts/5-reasons-why-you-shouldnt-learn-photography-on-your-own.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.",
+      "publishedAt": "2023-11-03T18:05:55.855Z",
+      "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Photography",
+          "value": "photography"
+        }
+      ],
+      "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
     }
   ]
 }

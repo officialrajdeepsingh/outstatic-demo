@@ -7,6 +7,7 @@ title: '5 Reasons Why You Shouldn''t Learn Photography On Your Own.'
 status: 'published'
 slug: '5-reasons-why-you-shouldnt-learn-photography-on-your-own'
 description: 'Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.'
+tags: [{"value":"photography","label":"Photography"}]
 publishedAt: '2023-11-03T18:05:55.855Z'
 ---
 
