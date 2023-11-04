@@ -8,7 +8,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": []
+      "values": [
+        {
+          "value": "facts",
+          "label": "Facts"
+        }
+      ]
     }
   }
 }

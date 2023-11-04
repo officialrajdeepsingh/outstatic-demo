@@ -7,6 +7,7 @@ author:
 slug: 'seven-mind-blowing-facts-about-smart-phone'
 description: 'Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation proident quis.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_1280.jpg'
+tags: [{"label":"Facts","value":"facts"}]
 publishedAt: '2023-11-04T08:32:09.787Z'
 ---
 

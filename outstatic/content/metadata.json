@@ -1,6 +1,6 @@
 {
-  "commit": "9e3801aa6432f4d95c4e218f99e49db0558d8c35",
-  "generated": "2023-11-04T08:04:32.733Z",
+  "commit": "4ff7beb9411ea89058c076e17cbc70fc41564a52",
+  "generated": "2023-11-04T09:14:58.563Z",
   "metadata": [
     {
       "__outstatic": {
@@ -184,8 +184,8 @@
     },
     {
       "__outstatic": {
-        "commit": "9e3801aa6432f4d95c4e218f99e49db0558d8c35",
-        "hash": "1122237981",
+        "commit": "4ff7beb9411ea89058c076e17cbc70fc41564a52",
+        "hash": "1040304714",
         "path": "outstatic/content/posts/seven-mind-blowing-facts-about-smart-phone.md"
       },
       "author": {
@@ -198,6 +198,12 @@
       "publishedAt": "2023-11-04T08:32:09.787Z",
       "slug": "seven-mind-blowing-facts-about-smart-phone",
       "status": "published",
+      "tags": [
+        {
+          "label": "Facts",
+          "value": "facts"
+        }
+      ],
       "title": "Seven mind-blowing Facts About Smartphone"
     }
   ]
