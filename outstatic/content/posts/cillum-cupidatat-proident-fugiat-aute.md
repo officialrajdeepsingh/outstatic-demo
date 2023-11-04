@@ -7,6 +7,7 @@ author:
 slug: 'cillum-cupidatat-proident-fugiat-aute'
 description: 'Pariatur laboris laboris reprehenderit excepteur esse incididunt elit culpa.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_1280.jpg'
+tags: [{"label":"Cillum","value":"cillum"}]
 publishedAt: '2023-11-03T18:56:46.654Z'
 ---
 

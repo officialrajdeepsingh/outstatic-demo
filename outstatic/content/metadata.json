@@ -1,6 +1,6 @@
 {
-  "commit": "202f37a2ec816e80f0d78ac44b3537287f2d6970",
-  "generated": "2023-11-04T09:15:23.358Z",
+  "commit": "99da79d3c089dc0f75effc32e55be2829acaacfb",
+  "generated": "2023-11-04T09:15:41.373Z",
   "metadata": [
     {
       "__outstatic": {
@@ -148,24 +148,6 @@
     },
     {
       "__outstatic": {
-        "commit": "f53ad674a40b5629e7ea1704f384e77982395fcf",
-        "hash": "804198224",
-        "path": "outstatic/content/posts/cillum-cupidatat-proident-fugiat-aute.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_1280.jpg",
-      "description": "Pariatur laboris laboris reprehenderit excepteur esse incididunt elit culpa.",
-      "publishedAt": "2023-11-03T18:56:46.654Z",
-      "slug": "cillum-cupidatat-proident-fugiat-aute",
-      "status": "published",
-      "title": "Cillum cupidatat proident fugiat aute."
-    },
-    {
-      "__outstatic": {
         "commit": "4ff7beb9411ea89058c076e17cbc70fc41564a52",
         "hash": "1040304714",
         "path": "outstatic/content/posts/seven-mind-blowing-facts-about-smart-phone.md"
@@ -211,6 +193,30 @@
         }
       ],
       "title": "How Computer Science Is Going To Change Your Business Strategies?"
+    },
+    {
+      "__outstatic": {
+        "commit": "99da79d3c089dc0f75effc32e55be2829acaacfb",
+        "hash": "2146761856",
+        "path": "outstatic/content/posts/cillum-cupidatat-proident-fugiat-aute.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/02/13/12/26/aurora-1197753_1280.jpg",
+      "description": "Pariatur laboris laboris reprehenderit excepteur esse incididunt elit culpa.",
+      "publishedAt": "2023-11-03T18:56:46.654Z",
+      "slug": "cillum-cupidatat-proident-fugiat-aute",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Cillum",
+          "value": "cillum"
+        }
+      ],
+      "title": "Cillum cupidatat proident fugiat aute."
     }
   ]
 }
