@@ -1,6 +1,6 @@
 {
-  "commit": "5967183d26f067db2e69724230987f2aea35907d",
-  "generated": "2023-11-04T09:16:06.271Z",
+  "commit": "565242b431115df9b16093f7ab052f8fd8f81e29",
+  "generated": "2023-11-04T09:16:25.610Z",
   "metadata": [
     {
       "__outstatic": {
@@ -55,24 +55,6 @@
       "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
       "status": "published",
       "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
-    },
-    {
-      "__outstatic": {
-        "commit": "eb797e2730b0bb06258616e1c017104efc55fd0c",
-        "hash": "2924984927",
-        "path": "outstatic/content/posts/15-facts-you-never-knew-about-photography.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg",
-      "description": "Commodo adipisicing dolor labore ullamco ut reprehenderit adipisicing magna proident consequat.",
-      "publishedAt": "2023-11-03T18:39:36.025Z",
-      "slug": "15-facts-you-never-knew-about-photography",
-      "status": "published",
-      "title": "15 Facts You Never Knew About Photography"
     },
     {
       "__outstatic": {
@@ -223,6 +205,34 @@
         }
       ],
       "title": "Python vs Rust vs JavaScript "
+    },
+    {
+      "__outstatic": {
+        "commit": "565242b431115df9b16093f7ab052f8fd8f81e29",
+        "hash": "2734825843",
+        "path": "outstatic/content/posts/15-facts-you-never-knew-about-photography.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg",
+      "description": "Commodo adipisicing dolor labore ullamco ut reprehenderit adipisicing magna proident consequat.",
+      "publishedAt": "2023-11-03T18:39:36.025Z",
+      "slug": "15-facts-you-never-knew-about-photography",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Photography",
+          "value": "photography"
+        },
+        {
+          "label": "Facts",
+          "value": "facts"
+        }
+      ],
+      "title": "15 Facts You Never Knew About Photography"
     }
   ]
 }

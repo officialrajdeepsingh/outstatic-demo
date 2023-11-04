@@ -24,6 +24,10 @@
         {
           "value": "language",
           "label": "language"
+        },
+        {
+          "value": "photography",
+          "label": "Photography"
         }
       ]
     }

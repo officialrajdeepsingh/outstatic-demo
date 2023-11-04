@@ -7,6 +7,7 @@ author:
 slug: '15-facts-you-never-knew-about-photography'
 description: 'Commodo adipisicing dolor labore ullamco ut reprehenderit adipisicing magna proident consequat.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg'
+tags: [{"label":"Photography","value":"photography"},{"value":"facts","label":"Facts"}]
 publishedAt: '2023-11-03T18:39:36.025Z'
 ---
 
@@ -23,8 +24,6 @@ Nisi amet ipsum deserunt in dolore veniam excepteur exercitation et ea ex laboru
 Consequat amet ut duis deserunt elit. Irure ad nisi enim duis. Ipsum cupidatat ex Lorem ea.
 
 ### Photography tips
-
-
 
 ![Photography tips](https://cdn.pixabay.com/photo/2015/09/03/08/04/photographer-920128_1280.jpg> "an-image-title")
 
@@ -47,8 +46,4 @@ Ad ad duis officia velit sunt nostrud et id dolore enim excepteur duis reprehend
 > Esse id elit id laboris ad consequat dolor dolore in ex ea veniam anim.
 
 Aliqua et culpa aute id in non ipsum velit deserunt pariatur ullamco. Nulla nostrud ea irure laboris anim et magna labore esse.
-
-
-
-
 
