@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 slug: 'hello-world'
 description: ''
-coverImage: ''
+coverImage: 'https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg'
 tags: [{"value":"helloWorld","label":"Hello world"}]
 publishedAt: '2023-11-04T09:51:20.420Z'
 ---
@@ -28,6 +28,4 @@ Many desktop publishing packages and web page editors now use Lorem Ipsum as the
 ### Conclusion
 
 Vestibulum accumsan, enim ac molestie vestibulum, augue odio congue turpis, eget dignissim augue mi finibus eros. Nulla at nibh aliquet, volutpat leo at, venenatis lectus. Quisque eget mauris porta, tempor turpis in, elementum diam. Duis a nisl ut velit posuere commodo luctus non massa. Suspendisse nunc ante, vulputate at mattis vel, malesuada non metus. Duis tellus lacus, fringilla ac eros ac, gravida dapibus elit. Vivamus lacus erat, aliquet id facilisis sed, blandit ut lectus.
-
-
 

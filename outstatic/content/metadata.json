@@ -1,6 +1,6 @@
 {
-  "commit": "853ed4a94b1524730b83a85abed05d082c8ac54e",
-  "generated": "2023-11-04T09:20:37.684Z",
+  "commit": "b9a3413d25503ed7c62c147f1bf98fa40cf8424c",
+  "generated": "2023-11-04T09:21:35.942Z",
   "metadata": [
     {
       "__outstatic": {
@@ -276,8 +276,8 @@
     },
     {
       "__outstatic": {
-        "commit": "853ed4a94b1524730b83a85abed05d082c8ac54e",
-        "hash": "2987396651",
+        "commit": "b9a3413d25503ed7c62c147f1bf98fa40cf8424c",
+        "hash": "200488624",
         "path": "outstatic/content/posts/hello-world.md"
       },
       "author": {
@@ -285,7 +285,7 @@
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "",
+      "coverImage": "https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg",
       "description": "",
       "publishedAt": "2023-11-04T09:51:20.420Z",
       "slug": "hello-world",
