@@ -1,25 +1,7 @@
 {
-  "commit": "57399102c96e8cb2127d814b359e367b15400e08",
-  "generated": "2023-11-04T09:17:10.108Z",
+  "commit": "1e065ebf751cf030d96274b2d19f0b2bbe62a04f",
+  "generated": "2023-11-04T09:17:35.716Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "63dff7496bed7022fac3801892b5f5a97e1ca090",
-        "hash": "130034202",
-        "path": "outstatic/content/posts/7-useful-tips-from-python-experts-in-programming.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/10/12/17/56/after-the-rain-8311416_1280.jpg",
-      "description": "Eiusmod quis esse aliqua sit nostrud aliquip sunt minim irure laboris reprehenderit irure ex.",
-      "publishedAt": "2023-11-03T18:12:52.253Z",
-      "slug": "7-useful-tips-from-python-experts-in-programming",
-      "status": "published",
-      "title": "7 Useful Tips From Python Experts In Programming."
-    },
     {
       "__outstatic": {
         "commit": "69ae5980afeaa01fad026a0a004ce7af670d49e2",
@@ -251,6 +233,34 @@
         }
       ],
       "title": "7 Ways To Use Computer Science To Your Advantage."
+    },
+    {
+      "__outstatic": {
+        "commit": "1e065ebf751cf030d96274b2d19f0b2bbe62a04f",
+        "hash": "522806384",
+        "path": "outstatic/content/posts/7-useful-tips-from-python-experts-in-programming.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2023/10/12/17/56/after-the-rain-8311416_1280.jpg",
+      "description": "Eiusmod quis esse aliqua sit nostrud aliquip sunt minim irure laboris reprehenderit irure ex.",
+      "publishedAt": "2023-11-03T18:12:52.253Z",
+      "slug": "7-useful-tips-from-python-experts-in-programming",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Python",
+          "value": "python"
+        },
+        {
+          "label": "language",
+          "value": "language"
+        }
+      ],
+      "title": "7 Useful Tips From Python Experts In Programming."
     }
   ]
 }

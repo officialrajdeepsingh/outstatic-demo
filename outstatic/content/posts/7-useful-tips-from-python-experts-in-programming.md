@@ -7,6 +7,7 @@ author:
 slug: '7-useful-tips-from-python-experts-in-programming'
 description: 'Eiusmod quis esse aliqua sit nostrud aliquip sunt minim irure laboris reprehenderit irure ex.'
 coverImage: 'https://cdn.pixabay.com/photo/2023/10/12/17/56/after-the-rain-8311416_1280.jpg'
+tags: [{"label":"Python","value":"python"},{"value":"language","label":"language"}]
 publishedAt: '2023-11-03T18:12:52.253Z'
 ---
 
@@ -46,6 +47,4 @@ Nisi anim commodo occaecat labore id quis exercitation occaecat.
 ### Conclusion
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non neque interdum, interdum justo vel, molestie tortor.
-
-
 

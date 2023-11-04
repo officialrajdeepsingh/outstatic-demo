@@ -32,6 +32,10 @@
         {
           "value": "health",
           "label": "Health"
+        },
+        {
+          "value": "python",
+          "label": "Python"
         }
       ]
     }
