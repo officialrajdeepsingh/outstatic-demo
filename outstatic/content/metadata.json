@@ -1,6 +1,6 @@
 {
-  "commit": "99da79d3c089dc0f75effc32e55be2829acaacfb",
-  "generated": "2023-11-04T09:15:41.373Z",
+  "commit": "5967183d26f067db2e69724230987f2aea35907d",
+  "generated": "2023-11-04T09:16:06.271Z",
   "metadata": [
     {
       "__outstatic": {
@@ -91,24 +91,6 @@
       "slug": "10-things-you-most-likely-didnt-know-about-health",
       "status": "published",
       "title": "10 Things You Most Likely Didn't Know About Health."
-    },
-    {
-      "__outstatic": {
-        "commit": "58b6619b0d03a27cb19edf796b9ffcefe9bbfded",
-        "hash": "4184746130",
-        "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
-      "description": "Irure tempor nisi consequat et veniam ad est.",
-      "publishedAt": "2023-11-03T18:46:38.898Z",
-      "slug": "python-vs-rust-vs-javascript",
-      "status": "published",
-      "title": "Python vs Rust vs JavaScript "
     },
     {
       "__outstatic": {
@@ -217,6 +199,30 @@
         }
       ],
       "title": "Cillum cupidatat proident fugiat aute."
+    },
+    {
+      "__outstatic": {
+        "commit": "5967183d26f067db2e69724230987f2aea35907d",
+        "hash": "2763617556",
+        "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
+      "description": "Irure tempor nisi consequat et veniam ad est.",
+      "publishedAt": "2023-11-03T18:46:38.898Z",
+      "slug": "python-vs-rust-vs-javascript",
+      "status": "published",
+      "tags": [
+        {
+          "label": "language",
+          "value": "language"
+        }
+      ],
+      "title": "Python vs Rust vs JavaScript "
     }
   ]
 }

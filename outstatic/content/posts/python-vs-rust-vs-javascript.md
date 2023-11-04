@@ -7,6 +7,7 @@ author:
 slug: 'python-vs-rust-vs-javascript'
 description: 'Irure tempor nisi consequat et veniam ad est.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg'
+tags: [{"label":"language","value":"language"}]
 publishedAt: '2023-11-03T18:46:38.898Z'
 ---
 
