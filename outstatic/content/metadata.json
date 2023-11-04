@@ -1,6 +1,6 @@
 {
-  "commit": "9fc3a411401191b19eec8d8219dde3433d21748d",
-  "generated": "2023-11-04T09:22:37.364Z",
+  "commit": "8142e597ed17fd4a7fc8de449403b61e692d4fd9",
+  "generated": "2023-11-04T13:27:26.377Z",
   "metadata": [
     {
       "__outstatic": {
@@ -25,30 +25,6 @@
         }
       ],
       "title": "Seven mind-blowing Facts About Smartphone"
-    },
-    {
-      "__outstatic": {
-        "commit": "202f37a2ec816e80f0d78ac44b3537287f2d6970",
-        "hash": "4060933429",
-        "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg",
-      "description": "Consectetur sint amet nisi",
-      "publishedAt": "2023-11-03T19:12:42.138Z",
-      "slug": "how-computer-science-is-going-to-change-your-business-strategies",
-      "status": "published",
-      "tags": [
-        {
-          "label": "computer science",
-          "value": "computerScience"
-        }
-      ],
-      "title": "How Computer Science Is Going To Change Your Business Strategies?"
     },
     {
       "__outstatic": {
@@ -297,6 +273,30 @@
         }
       ],
       "title": "Hello world"
+    },
+    {
+      "__outstatic": {
+        "commit": "8142e597ed17fd4a7fc8de449403b61e692d4fd9",
+        "hash": "623286131",
+        "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg",
+      "description": "Consectetur sint amet nisi",
+      "publishedAt": "2023-11-03T19:12:42.138Z",
+      "slug": "how-computer-science-is-going-to-change-your-business-strategies",
+      "status": "published",
+      "tags": [
+        {
+          "label": "computer science",
+          "value": "computerScience"
+        }
+      ],
+      "title": "How Computer Science Is Going To Change Your Business Strategies?"
     }
   ]
 }
