@@ -1,12 +1,11 @@
 ---
-title: 'Seven mind blowing Facts About Smart Phone'
+title: 'Seven mind-blowing Facts About Smartphone'
 status: 'published'
 author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 slug: 'seven-mind-blowing-facts-about-smart-phone'
-description: 'Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation
-  proident quis.'
+description: 'Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation proident quis.'
 coverImage: 'https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_1280.jpg'
 publishedAt: '2023-11-04T08:32:09.787Z'
 ---
@@ -24,8 +23,6 @@ Ea qui quis ad mollit enim in nostrud officia nisi id aute anim non. Adipisicing
 - minim pariatur est aliquip
 
 - tempor elit enim duis sint nulla.
-
-
 
 Officia aliquip eu nisi culpa quis aute tempor. Cupidatat consequat anim aute do magna Lorem pariatur eiusmod qui veniam commodo ullamco quis.
 
