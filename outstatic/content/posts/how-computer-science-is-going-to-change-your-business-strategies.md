@@ -7,6 +7,7 @@ author:
 slug: 'how-computer-science-is-going-to-change-your-business-strategies'
 description: 'Consectetur sint amet nisi'
 coverImage: 'https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg'
+tags: [{"label":"computer science","value":"computerScience"}]
 publishedAt: '2023-11-03T19:12:42.138Z'
 ---
 
