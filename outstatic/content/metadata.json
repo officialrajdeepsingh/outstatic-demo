@@ -1,6 +1,6 @@
 {
-  "commit": "5b468378df3fe89893f6566d2df3185256d6f29b",
-  "generated": "Fri, 03 Nov 2023 18:50:51 GMT",
+  "commit": "63c3c4bb82b920a2762bd8c9c831b3416e7f9f10",
+  "generated": "2023-11-04T08:04:16.601Z",
   "metadata": [
     {
       "__outstatic": {
@@ -181,6 +181,24 @@
       "slug": "cillum-cupidatat-proident-fugiat-aute",
       "status": "published",
       "title": "Cillum cupidatat proident fugiat aute."
+    },
+    {
+      "__outstatic": {
+        "commit": "63c3c4bb82b920a2762bd8c9c831b3416e7f9f10",
+        "hash": "2133277806",
+        "path": "outstatic/content/posts/seven-mind-blowing-facts-about-smart-phone.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_1280.jpg",
+      "description": "Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation proident quis.",
+      "publishedAt": "2023-11-04T08:32:09.787Z",
+      "slug": "seven-mind-blowing-facts-about-smart-phone",
+      "status": "published",
+      "title": "Seven mind blowing Facts About Smart Phone"
     }
   ]
 }
