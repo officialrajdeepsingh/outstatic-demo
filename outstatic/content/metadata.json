@@ -1,6 +1,6 @@
 {
-  "commit": "27ae6aca3627778845a09e691b3da9fb6faafd9a",
-  "generated": "2023-11-04T09:18:10.796Z",
+  "commit": "853ed4a94b1524730b83a85abed05d082c8ac54e",
+  "generated": "2023-11-04T09:20:37.684Z",
   "metadata": [
     {
       "__outstatic": {
@@ -273,6 +273,30 @@
         }
       ],
       "title": "Hello, How are you"
+    },
+    {
+      "__outstatic": {
+        "commit": "853ed4a94b1524730b83a85abed05d082c8ac54e",
+        "hash": "2987396651",
+        "path": "outstatic/content/posts/hello-world.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-04T09:51:20.420Z",
+      "slug": "hello-world",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Hello world",
+          "value": "helloWorld"
+        }
+      ],
+      "title": "Hello world"
     }
   ]
 }
