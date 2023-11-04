@@ -5,7 +5,7 @@ author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 slug: 'hello-world'
-description: ''
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget feugiat turpis. Sed sed tortor odio. '
 coverImage: 'https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg'
 tags: [{"value":"helloWorld","label":"Hello world"}]
 publishedAt: '2023-11-04T09:51:20.420Z'

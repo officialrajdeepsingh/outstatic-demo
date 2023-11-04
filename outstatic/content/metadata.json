@@ -1,6 +1,6 @@
 {
-  "commit": "b9a3413d25503ed7c62c147f1bf98fa40cf8424c",
-  "generated": "2023-11-04T09:21:35.942Z",
+  "commit": "9fc3a411401191b19eec8d8219dde3433d21748d",
+  "generated": "2023-11-04T09:22:37.364Z",
   "metadata": [
     {
       "__outstatic": {
@@ -276,8 +276,8 @@
     },
     {
       "__outstatic": {
-        "commit": "b9a3413d25503ed7c62c147f1bf98fa40cf8424c",
-        "hash": "200488624",
+        "commit": "9fc3a411401191b19eec8d8219dde3433d21748d",
+        "hash": "363516842",
         "path": "outstatic/content/posts/hello-world.md"
       },
       "author": {
@@ -286,7 +286,7 @@
       },
       "collection": "posts",
       "coverImage": "https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg",
-      "description": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget feugiat turpis. Sed sed tortor odio. ",
       "publishedAt": "2023-11-04T09:51:20.420Z",
       "slug": "hello-world",
       "status": "published",
