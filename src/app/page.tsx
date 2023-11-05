@@ -5,6 +5,10 @@ import Image from 'next/image';
 import { OstDocument } from 'outstatic';
 import Link from 'next/link';
 
+type Post = {
+    tags: { value: string; label: string }[]
+} & OstDocument
+
 export const metadata: Metadata = {
     title: "Home",
     description: 'A blog starter built with Outstatic.',
@@ -12,23 +16,24 @@ export const metadata: Metadata = {
 
 export const revalidate = 60
 
-type Post = {
-    tags: { value: string; label: string }[]
-} & OstDocument
-
 export default async function Index() {
+
     const { allPosts } = await getData()
+
     return (
         <section className="bg-white dark:bg-gray-900">
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+                
                 <div className="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
                     <h2 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">All Posts</h2>
                     <p className="font-light text-gray-500 sm:text-xl dark:text-gray-400">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 </div>
+
                 <div className="grid gap-8 lg:grid-cols-2">
 
                     {
                         allPosts.map((post) => {
+                            
                             const getDate = dayjs(post.publishedAt).format('MMM DD, YYYY')
 
                             return (
