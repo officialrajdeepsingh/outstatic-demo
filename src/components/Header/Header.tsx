@@ -7,7 +7,7 @@ export function Header() {
 
             <div className="p-12 flex gap-5 flex-col md:flex-row items-center justify-between">
 
-                <Link className="text-lg" href="/">Outstatic.</Link>
+                <Link className="text-lg" href="/"> Outstatic CMS</Link>
 
                 <div className="flex flex-row">
                     <Link href="/" className="text-xs p-2 mx-2 lg:hover:bg-gray-50 lg:hover:text-gray-800">Home</Link>
