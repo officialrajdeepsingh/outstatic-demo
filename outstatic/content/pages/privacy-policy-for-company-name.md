@@ -14,7 +14,13 @@ These terms and conditions outline the rules and regulations for the use of Test
 
 By accessing this website we assume you accept these terms and conditions. Do not continue to use Test com if you do not agree to take all of the terms and conditions stated on this page.
 
-The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company's terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client's needs in respect of provision of the Company's stated services, in accordance with and subject to, prevailing law of in. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: "Client", "You" and "Your" refers to you, the person log on this website and compliant to the Company's terms and conditions.
+
+"The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves.
+
+All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client's needs in respect of provision of the Company's stated services, in accordance with and subject to, prevailing law of in.
+
+Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ### **Cookies**
 
@@ -24,7 +30,9 @@ Most interactive websites use cookies to let us retrieve the user's details for 
 
 ### **License**
 
-Unless otherwise stated, Test com and/or its licensors own the intellectual property rights for all material on Test com. All intellectual property rights are reserved. You may access this from Test com for your own personal use subjected to restrictions set in these terms and conditions.
+Unless otherwise stated, Test com and/or its licensors own the intellectual property rights for all material on Test com.
+
+All intellectual property rights are reserved. You may access this from Test com for your own personal use subjected to restrictions set in these terms and conditions.
 
 You must not:
 
@@ -38,7 +46,9 @@ You must not:
 
 This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the help of the [Free Terms and Conditions Generator](https://www.termsandconditionsgenerator.com/).
 
-Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Test com does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Test com,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Test com shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
+Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. Test com does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of Test com,its agents and/or affiliates.
+
+Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, Test com shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.
 
 Test com reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.
 
@@ -90,7 +100,9 @@ We will approve link requests from these organizations if we decide that: (a) th
 
 These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party's site.
 
-If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Test com. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
+If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Test com.
+
+Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
 
 Approved organizations may hyperlink to our Website as follows:
 
@@ -108,11 +120,15 @@ Without prior approval and written permission, you may not create frames around 
 
 ### **Content Liability**
 
-We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
+We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website.
+
+No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
 
 ### **Reservation of Rights**
 
-We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it's linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.
+We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request.
+
+We also reserve the right to amen these terms and conditions and it's linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.
 
 ### **Removal of links from our website**
 

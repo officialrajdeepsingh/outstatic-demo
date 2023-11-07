@@ -1,6 +1,6 @@
 {
   "commit": "57f98e6f056133ea4f9d8a7cb9f9f26d3c1985cc",
-  "generated": "2023-11-07T16:12:10.209Z",
+  "generated": "2023-11-07T16:14:25.886Z",
   "metadata": [
     {
       "__outstatic": {
@@ -337,7 +337,7 @@
     {
       "__outstatic": {
         "commit": "57f98e6f056133ea4f9d8a7cb9f9f26d3c1985cc",
-        "hash": "1318486349",
+        "hash": "320087921",
         "path": "outstatic/content/pages/privacy-policy-for-company-name.md"
       },
       "author": {
