@@ -1,6 +1,6 @@
 {
   "commit": "57f98e6f056133ea4f9d8a7cb9f9f26d3c1985cc",
-  "generated": "2023-11-07T16:14:25.886Z",
+  "generated": "2023-11-07T16:15:08.347Z",
   "metadata": [
     {
       "__outstatic": {
@@ -337,7 +337,7 @@
     {
       "__outstatic": {
         "commit": "57f98e6f056133ea4f9d8a7cb9f9f26d3c1985cc",
-        "hash": "320087921",
+        "hash": "1146564839",
         "path": "outstatic/content/pages/privacy-policy-for-company-name.md"
       },
       "author": {
@@ -346,7 +346,7 @@
       },
       "collection": "pages",
       "coverImage": "",
-      "description": "",
+      "description": "These terms and conditions outline the rules and regulations for the use of Test com's Website, located at test.com.",
       "publishedAt": "2023-11-07T16:41:48.524Z",
       "slug": "privacy-policy-for-company-name",
       "status": "published",
