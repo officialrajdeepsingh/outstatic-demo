@@ -10,8 +10,6 @@ description: ''
 publishedAt: '2023-11-07T16:41:48.524Z'
 ---
 
-Welcome to Test COM!
-
 These terms and conditions outline the rules and regulations for the use of Test com's Website, located at test.com.
 
 By accessing this website we assume you accept these terms and conditions. Do not continue to use Test com if you do not agree to take all of the terms and conditions stated on this page.
