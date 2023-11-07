@@ -6,13 +6,18 @@ export function Header() {
         <nav className="container mx-auto">
 
             <div className="p-12 flex gap-5 flex-col sm:flex-row items-center justify-between">
-                
+
                 <Link className="text-lg" href="/">Outstatic.</Link>
 
                 <div className="flex flex-row">
                     <Link href="/" className="p-2 mx-2 lg:hover:bg-gray-50 lg:hover:text-gray-800">Home</Link>
-                    <Link href="/about" className="p-2 mx-2 lg:hover:bg-gray-50 lg:hover:text-gray-800">About</Link>
+                    <Link href="/pages/about-us" className="p-2 mx-2 lg:hover:bg-gray-50 lg:hover:text-gray-800">About</Link>
+                    <Link href="/pages/privacy-policy" className="p-2 mx-2 lg:hover:bg-gray-50 lg:hover:text-gray-800">Privacy Policy</Link>
+                    <Link href="/pages/terms-and-conditions" className="p-2 mx-2 lg:hover:bg-gray-50 lg:hover:text-gray-800">
+                        Terms and Conditions
+                    </Link>
                     <Link href="/contact" className="p-2 mx-2 lg:hover:bg-gray-50 lg:hover:text-gray-800">Contact</Link>
+
                 </div>
 
                 <div className="flex flex-row items-center justify-between">
