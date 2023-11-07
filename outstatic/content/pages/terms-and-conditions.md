@@ -3,9 +3,10 @@ author:
   name: 'Rajdeep singh'
   picture: 'https://avatars.githubusercontent.com/u/32416397?v=4'
 coverImage: ''
-title: 'Privacy Policy for Company Name'
+title: 'Terms and Conditions
+for Company Name'
 status: 'published'
-slug: 'privacy-policy-for-company-name'
+slug: 'terms-and-conditions'
 description: 'These terms and conditions outline the rules and regulations for the use of Test com''s Website, located at test.com.'
 publishedAt: '2023-11-07T16:41:48.524Z'
 ---
