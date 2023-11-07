@@ -1,6 +1,6 @@
 {
-  "commit": "4696cc8a5dbfa500c2c7e4739d2ca14c0bfe0a4c",
-  "generated": "2023-11-07T16:08:12.221Z",
+  "commit": "edae4256b73eea9c0829d93ab2b3cae64f1b3b15",
+  "generated": "2023-11-07T16:11:57.153Z",
   "metadata": [
     {
       "__outstatic": {
@@ -333,6 +333,24 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "edae4256b73eea9c0829d93ab2b3cae64f1b3b15",
+        "hash": "1189137592",
+        "path": "outstatic/content/pages/privacy-policy-for-company-name.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-07T16:41:48.524Z",
+      "slug": "privacy-policy-for-company-name",
+      "status": "published",
+      "title": "Privacy Policy for Company Name"
     }
   ]
 }
