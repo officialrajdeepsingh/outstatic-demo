@@ -1,6 +1,6 @@
 {
-  "commit": "57f98e6f056133ea4f9d8a7cb9f9f26d3c1985cc",
-  "generated": "2023-11-07T16:15:08.347Z",
+  "commit": "3e13a7172b059d142c8396312fbc5f299db07807",
+  "generated": "2023-11-07T16:15:51.344Z",
   "metadata": [
     {
       "__outstatic": {
@@ -318,24 +318,6 @@
     },
     {
       "__outstatic": {
-        "commit": "4696cc8a5dbfa500c2c7e4739d2ca14c0bfe0a4c",
-        "hash": "4182132009",
-        "path": "outstatic/content/pages/privacy-policy.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-07T16:36:47.628Z",
-      "slug": "privacy-policy",
-      "status": "published",
-      "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
         "commit": "57f98e6f056133ea4f9d8a7cb9f9f26d3c1985cc",
         "hash": "1146564839",
         "path": "outstatic/content/pages/privacy-policy-for-company-name.md"
@@ -351,6 +333,24 @@
       "slug": "privacy-policy-for-company-name",
       "status": "published",
       "title": "Privacy Policy for Company Name"
+    },
+    {
+      "__outstatic": {
+        "commit": "3e13a7172b059d142c8396312fbc5f299db07807",
+        "hash": "1415918230",
+        "path": "outstatic/content/pages/privacy-policy.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "At Website Name, accessible at Website.com, one of our main priorities is the privacy of our visitors. ",
+      "publishedAt": "2023-11-07T16:36:47.628Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
     }
   ]
 }
