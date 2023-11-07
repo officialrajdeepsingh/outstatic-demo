@@ -1,6 +1,6 @@
 {
-  "commit": "ff820051ce754fde63ec3e531e6d72b9ef239a08",
-  "generated": "2023-11-07T12:48:32.942Z",
+  "commit": "136b67535a2bcda783d3f525d32332e4a0c82c10",
+  "generated": "2023-11-07T16:03:29.826Z",
   "metadata": [
     {
       "__outstatic": {
@@ -297,6 +297,24 @@
         }
       ],
       "title": "Hello world"
+    },
+    {
+      "__outstatic": {
+        "commit": "136b67535a2bcda783d3f525d32332e4a0c82c10",
+        "hash": "2801254010",
+        "path": "outstatic/content/pages/about-us.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2023-11-07T16:34:30.150Z",
+      "slug": "about-us",
+      "status": "published",
+      "title": "About us"
     }
   ]
 }
