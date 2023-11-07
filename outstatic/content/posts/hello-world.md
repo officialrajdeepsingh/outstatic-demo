@@ -27,9 +27,9 @@ It is a long established fact that a reader will be distracted by the readable c
 
 Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-
-
 ### Conclusion
 
-Vestibulum accumsan, enim ac molestie vestibulum, augue odio congue turpis, eget dignissim augue mi finibus eros. Nulla at nibh aliquet, volutpat leo at, venenatis lectus. Quisque eget mauris porta, tempor turpis in, elementum diam. Duis a nisl ut velit posuere commodo luctus non massa. Suspendisse nunc ante, vulputate at mattis vel, malesuada non metus. Duis tellus lacus, fringilla ac eros ac, gravida dapibus elit. Vivamus lacus erat, aliquet id facilisis sed, blandit ut lectus.
+Vestibulum accumsan, enim ac molestie vestibulum, augue odio congue turpis, eget dignissim augue mi finibus eros. Nulla at nibh aliquet, volutpat leo at, venenatis lectus. Quisque eget mauris porta, tempor turpis in, elementum diam.
+
+Duis a nisl ut velit posuere commodo luctus non massa. Suspendisse nunc ante, vulputate at mattis vel, malesuada non metus. Duis tellus lacus, fringilla ac eros ac, gravida dapibus elit. Vivamus lacus erat, aliquet id facilisis sed, blandit ut lectus.
 
