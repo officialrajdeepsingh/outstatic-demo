@@ -58,14 +58,12 @@ export default async function Post(params: Params) {
     const getDate = dayjs(post.publishedAt).format('MMM DD, YYYY')
 
     return (
-        <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 antialiased">
+        <main className="container mx-auto pt-8 pb-16 lg:pt-16 lg:pb-24 antialiased">
 
             <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
                 <div className="mx-auto w-full max-w-4xl prose-p:my-3 prose lg:prose-2xl prose-blue dark:prose-invert">
-
                     <h1 className="mb-2 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-4xl dark:text-white">{post.title} </h1>
                     <p className="text-gray-400 my-1">{post.description}</p>
-
                     <header className="mb-4 lg:mb-6 not-prose">
                         <address className="flex items-center mb-6 not-italic">
                             <div className="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
@@ -82,12 +80,10 @@ export default async function Post(params: Params) {
                             </div>
                         </address>
                     </header>
-
                 </div>
-
             </div>
 
-            <article className="mx-auto w-full max-w-4xl prose lg:prose-xl prose-blue dark:prose-invert" dangerouslySetInnerHTML={{
+            <article className="px-3 mx-auto w-full max-w-4xl prose lg:prose-xl prose-blue dark:prose-invert" dangerouslySetInnerHTML={{
                 __html: post.content
             }}>
             </article>

@@ -57,7 +57,7 @@ export default async function Pages(params: Params) {
     const pages = await getData(params)
 
     return (
-        <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 antialiased">
+        <main className="container mx-auto pt-8 pb-16 lg:pt-16 lg:pb-24 antialiased">
 
             <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
                 <div className="mx-auto w-full max-w-4xl prose-p:my-3 prose lg:prose-2xl prose-blue dark:prose-invert">
@@ -66,7 +66,7 @@ export default async function Pages(params: Params) {
                 </div>
             </div>
 
-            <article className="mx-auto w-full max-w-4xl prose lg:prose-xl prose-blue dark:prose-invert" dangerouslySetInnerHTML={{
+            <article className="px-3 mx-auto w-full max-w-4xl prose lg:prose-xl prose-blue dark:prose-invert" dangerouslySetInnerHTML={{
                 __html: pages.content
             }}>
             </article>
