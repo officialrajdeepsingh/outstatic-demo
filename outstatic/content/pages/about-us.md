@@ -6,11 +6,11 @@ coverImage: ''
 title: 'About us'
 status: 'published'
 slug: 'about-us'
-description: ''
+description: 'Proin fermentum leo vel orci. Dui faucibus in ornare quam viverra orci sagittis eu.'
 publishedAt: '2023-11-07T16:34:30.150Z'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin fermentum leo vel orci. Dui faucibus in ornare quam viverra orci sagittis eu.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ### Laoreet
 

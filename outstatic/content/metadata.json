@@ -1,6 +1,6 @@
 {
-  "commit": "3e13a7172b059d142c8396312fbc5f299db07807",
-  "generated": "2023-11-07T16:15:51.344Z",
+  "commit": "71942d0e509700a86f9e6aad001d7f5276193ce4",
+  "generated": "2023-11-07T16:16:26.370Z",
   "metadata": [
     {
       "__outstatic": {
@@ -300,24 +300,6 @@
     },
     {
       "__outstatic": {
-        "commit": "136b67535a2bcda783d3f525d32332e4a0c82c10",
-        "hash": "2801254010",
-        "path": "outstatic/content/pages/about-us.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2023-11-07T16:34:30.150Z",
-      "slug": "about-us",
-      "status": "published",
-      "title": "About us"
-    },
-    {
-      "__outstatic": {
         "commit": "57f98e6f056133ea4f9d8a7cb9f9f26d3c1985cc",
         "hash": "1146564839",
         "path": "outstatic/content/pages/privacy-policy-for-company-name.md"
@@ -351,6 +333,24 @@
       "slug": "privacy-policy",
       "status": "published",
       "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "71942d0e509700a86f9e6aad001d7f5276193ce4",
+        "hash": "4285223575",
+        "path": "outstatic/content/pages/about-us.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Proin fermentum leo vel orci. Dui faucibus in ornare quam viverra orci sagittis eu.",
+      "publishedAt": "2023-11-07T16:34:30.150Z",
+      "slug": "about-us",
+      "status": "published",
+      "title": "About us"
     }
   ]
 }
