@@ -5,7 +5,7 @@ import dayjs from 'dayjs';
 import markdownToHtml from '@/lib/markdownToHtml'
 import Image from "next/image";
 import { Metadata } from "next";
-import {absoluteUrl} from "@/lib/utils"
+import { absoluteUrl } from "@/lib/utils"
 
 type Post = {
     tags: { value: string; label: string }[]
@@ -20,41 +20,42 @@ interface Params {
 export async function generateMetadata(params: Params): Promise<Metadata> {
 
     const post = await getData(params)
-  
+
     if (!post) {
-      return {}
+        return {}
     }
 
     return {
-      title: post.title,
-      description: post.description,
-      openGraph: {
         title: post.title,
         description: post.description,
-        type: 'article',
-        url: absoluteUrl(`/posts/${post.slug}`),
-        images: [
-          {
-            url: absoluteUrl(post?.coverImage || '/images/og-image.png'),
-            width: 1200,
-            height: 630,
-            alt: post.title
-          }
-        ]
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title: post.title,
-        description: post.description,
-        images: absoluteUrl(post?.coverImage || '/images/og-image.png')
-      }
+        openGraph: {
+            title: post.title,
+            description: post.description,
+            type: 'article',
+            url: absoluteUrl(`/posts/${post.slug}`),
+            images: [
+                {
+                    url: absoluteUrl(post?.coverImage || '/images/og-image.png'),
+                    width: 1200,
+                    height: 630,
+                    alt: post.title
+                }
+            ]
+        },
+        twitter: {
+            card: 'summary_large_image',
+            title: post.title,
+            description: post.description,
+            images: absoluteUrl(post?.coverImage || '/images/og-image.png')
+        }
     }
-  }
+}
 
 
 export default async function Post(params: Params) {
 
     const post = await getData(params)
+
     const getDate = dayjs(post.publishedAt).format('MMM DD, YYYY')
 
     return (
@@ -68,7 +69,7 @@ export default async function Post(params: Params) {
                         <address className="flex items-center mb-6 not-italic">
                             <div className="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
 
-                               {post.author?.picture && <Image height={32} width={32} className="mr-4 w-8 h-8 rounded-full" src={post.author?.picture} alt={post.author?.name || post.title} />}
+                                {post.author?.picture && <Image height={32} width={32} className="mr-4 w-8 h-8 rounded-full" src={post.author?.picture} alt={post.author?.name || post.title} />}
 
                                 <div className="flex flex-row items-center">
                                     <p className="text-xl font-bold text-gray-900 dark:text-white">{post.author?.name}</p>
