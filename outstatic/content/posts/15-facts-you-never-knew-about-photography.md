@@ -25,7 +25,7 @@ Consequat amet ut duis deserunt elit. Irure ad nisi enim duis. Ipsum cupidatat e
 
 ### Photography tips
 
-![Photography tips](https://cdn.pixabay.com/photo/2015/09/03/08/04/photographer-920128_1280.jpg> "an-image-title")
+![Photography Tips](https://cdn.pixabay.com/photo/2014/11/03/10/44/camera-514992_1280.jpg)
 
 Proident culpa et non consequat Lorem magna do in mollit.
 
@@ -46,4 +46,3 @@ Ad ad duis officia velit sunt nostrud et id dolore enim excepteur duis reprehend
 > Esse id elit id laboris ad consequat dolor dolore in ex ea veniam anim.
 
 Aliqua et culpa aute id in non ipsum velit deserunt pariatur ullamco. Nulla nostrud ea irure laboris anim et magna labore esse.
-

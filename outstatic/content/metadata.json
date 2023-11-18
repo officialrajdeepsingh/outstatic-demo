@@ -1,6 +1,6 @@
 {
-  "commit": "61d8f49ea96248b9e78de817bcfcbd766e2dbb01",
-  "generated": "2023-11-18T10:07:17.372Z",
+  "commit": "2ae566d1051bc99f0bd5deca061a9c4be1bbdbda",
+  "generated": "2023-11-18T10:11:20.107Z",
   "metadata": [
     {
       "__outstatic": {
@@ -151,34 +151,6 @@
         }
       ],
       "title": "7 Ways To Use Computer Science To Your Advantage."
-    },
-    {
-      "__outstatic": {
-        "commit": "e005189160c711a97be6dd39647a5f6c98df01d1",
-        "hash": "2734825843",
-        "path": "outstatic/content/posts/15-facts-you-never-knew-about-photography.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg",
-      "description": "Commodo adipisicing dolor labore ullamco ut reprehenderit adipisicing magna proident consequat.",
-      "publishedAt": "2023-11-03T18:39:36.025Z",
-      "slug": "15-facts-you-never-knew-about-photography",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Photography",
-          "value": "photography"
-        },
-        {
-          "label": "Facts",
-          "value": "facts"
-        }
-      ],
-      "title": "15 Facts You Never Knew About Photography"
     },
     {
       "__outstatic": {
@@ -351,6 +323,34 @@
         }
       ],
       "title": "How Computer Science Is Going To Change Your Business Strategies?"
+    },
+    {
+      "__outstatic": {
+        "commit": "2ae566d1051bc99f0bd5deca061a9c4be1bbdbda",
+        "hash": "3578040173",
+        "path": "outstatic/content/posts/15-facts-you-never-knew-about-photography.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg",
+      "description": "Commodo adipisicing dolor labore ullamco ut reprehenderit adipisicing magna proident consequat.",
+      "publishedAt": "2023-11-03T18:39:36.025Z",
+      "slug": "15-facts-you-never-knew-about-photography",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Photography",
+          "value": "photography"
+        },
+        {
+          "label": "Facts",
+          "value": "facts"
+        }
+      ],
+      "title": "15 Facts You Never Knew About Photography"
     }
   ]
 }
