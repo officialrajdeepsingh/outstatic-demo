@@ -2,9 +2,10 @@ import '../globals.css'
 import { Header } from "@/components/Header/Header"
 import { Metadata } from 'next'
 import { absoluteUrl } from '@/lib/utils'
+import { Layout } from "@/components/Layout/Layout";
 
 export const metadata: Metadata = {
-  metadataBase: new URL( process.env.NODE_ENV === "development" ? `http://localhost:${process.env.PORT || 3000}`:`https://${process.env.VERCEL_URL}`),
+  metadataBase: new URL(process.env.NODE_ENV === "development" ? `http://localhost:${process.env.PORT || 3000}` : `https://${process.env.VERCEL_URL}`),
   title: {
     default: 'Outstatic',
     template: '%s | Outstatic'
@@ -36,14 +37,15 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+
   return (
     <html lang="en">
-      <body data-new-gr-c-s-check-loaded={true} data-gr-ext-installed={true} className='bg-white dark:text-white dark:bg-gray-900'>
+      <body  data-new-gr-c-s-check-loaded={true} data-gr-ext-installed={true} className='bg-white dark:text-white dark:bg-gray-900'>
+        <Layout>
 
-        <Header />
+          {children}
 
-        {children}
-
+        </Layout>
       </body>
     </html>
   )
