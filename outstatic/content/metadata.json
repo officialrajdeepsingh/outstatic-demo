@@ -1,6 +1,6 @@
 {
-  "commit": "2ae566d1051bc99f0bd5deca061a9c4be1bbdbda",
-  "generated": "2023-11-18T10:11:20.107Z",
+  "commit": "59f2498f3548ffccf94946465c0699b0ba8e4fbb",
+  "generated": "2023-11-18T10:30:23.080Z",
   "metadata": [
     {
       "__outstatic": {
@@ -254,30 +254,6 @@
     },
     {
       "__outstatic": {
-        "commit": "e2ef3bf7ed0630b6a3f6e882d494752dd6b34db2",
-        "hash": "1246431022",
-        "path": "outstatic/content/posts/hello-world.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget feugiat turpis. Sed sed tortor odio. ",
-      "publishedAt": "2023-11-04T09:51:20.420Z",
-      "slug": "hello-world",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Hello world",
-          "value": "helloWorld"
-        }
-      ],
-      "title": "Hello world"
-    },
-    {
-      "__outstatic": {
         "commit": "ec9b144d6635d070a9b6036281cb36416deca6ab",
         "hash": "1891252881",
         "path": "outstatic/content/posts/hello-how-are-you.md"
@@ -351,6 +327,30 @@
         }
       ],
       "title": "15 Facts You Never Knew About Photography"
+    },
+    {
+      "__outstatic": {
+        "commit": "59f2498f3548ffccf94946465c0699b0ba8e4fbb",
+        "hash": "4148681039",
+        "path": "outstatic/content/posts/hello-world.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2020/03/16/12/36/lorem-4936918_1280.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget feugiat turpis. Sed sed tortor odio. ",
+      "publishedAt": "2023-11-04T09:51:20.420Z",
+      "slug": "hello-world",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Hello world",
+          "value": "helloWorld"
+        }
+      ],
+      "title": "Hello world"
     }
   ]
 }
