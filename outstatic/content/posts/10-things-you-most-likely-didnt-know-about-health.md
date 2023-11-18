@@ -29,7 +29,7 @@ Qui laborum labore excepteur duis velit velit enim enim veniam. Pariatur laboris
 
 In incididunt pariatur aliquip ut elit irure magna anim sunt. Anim labore ut sit magna ex proident dolor anim cupidatat adipisicing.
 
-![Qui laborum labore excepteur](https://cdn.pixabay.com/photo/2017/06/01/18/46/cook-2364221_1280.jpg> "an-image-title")
+![health](https://cdn.pixabay.com/photo/2015/07/02/20/37/cup-829527_1280.jpg)
 
 ### Conclusion
 
@@ -38,4 +38,3 @@ Aliquip veniam aliquip nisi non amet pariatur quis. Laborum est aliquip cillum e
 > Officia minim labore pariatur nisi irure sunt anim.
 
 Aute laborum tempor adipisicing officia magna fugiat sint cupidatat. Enim Lorem officia anim cillum ea tempor dolore voluptate.
-
