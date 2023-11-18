@@ -6,6 +6,7 @@ import markdownToHtml from '@/lib/markdownToHtml'
 import Image from "next/image";
 import { Metadata } from "next";
 import { absoluteUrl } from "@/lib/utils"
+import { Article } from "@/components/Article/Article"
 
 type Post = {
     tags: { value: string; label: string }[]
@@ -72,11 +73,11 @@ export default async function Post(params: Params) {
                                 {post.author?.picture && <Image height={32} width={32} className="mr-4 w-8 h-8 rounded-full" src={post.author?.picture} alt={post.author?.name || post.title} />}
 
                                 <div className="flex flex-row items-center">
-                                    <p className="text-xl font-bold text-gray-900 dark:text-white">{post.author?.name}</p>
-                                    <p className="text-xl mx-2 font-bold text-gray-900 dark:text-white">.</p>
-                                    <p className="text-xl font-bold text-gray-500 dark:text-gray-400"><time dateTime={getDate} title={getDate}>{getDate}</time></p>
-                                    <p className="text-xl mx-2 font-bold text-gray-900 dark:text-white">.</p>
-                                    <p className="text-xl font-bold text-gray-900 dark:text-white">{post?.tags[0].label}</p>
+                                    <p className="text-sm sm:text-sm md:text-md lg:text-lg xl:text-xl  font-bold text-gray-900 dark:text-white">{post.author?.name}</p>
+                                    <p className="text-sm sm:text-sm md:text-md lg:text-lg xl:text-xl  mx-2 font-bold text-gray-900 dark:text-white">.</p>
+                                    <p className="text-sm sm:text-sm md:text-md lg:text-lg xl:text-xl  font-bold text-gray-500 dark:text-gray-400"><time dateTime={getDate} title={getDate}>{getDate}</time></p>
+                                    <p className="text-sm sm:text-sm md:text-md lg:text-lg xl:text-xl  mx-2 font-bold text-gray-900 dark:text-white">.</p>
+                                    <p className="text-sm sm:text-sm md:text-md lg:text-lg xl:text-xl  font-bold text-gray-900 dark:text-white">{post?.tags[0].label}</p>
                                 </div>
                             </div>
                         </address>
@@ -84,10 +85,7 @@ export default async function Post(params: Params) {
                 </div>
             </div>
 
-            <article className="px-3 mx-auto w-full max-w-4xl prose lg:prose-xl prose-blue dark:prose-invert" dangerouslySetInnerHTML={{
-                __html: post.content
-            }}>
-            </article>
+            <Article content={post.content} />
 
         </main>
     )
