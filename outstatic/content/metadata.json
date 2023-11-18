@@ -1,34 +1,112 @@
 {
-  "commit": "9425f8fecf1663cbec75caf27f631b74a74da7fb",
-  "generated": "2023-11-07T16:37:22.564Z",
+  "commit": "4dee7dbf82095fae925ab8b03255cc36a173348d",
+  "generated": "Sat, 18 Nov 2023 10:02:46 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "4ff7beb9411ea89058c076e17cbc70fc41564a52",
-        "hash": "1040304714",
-        "path": "outstatic/content/posts/seven-mind-blowing-facts-about-smart-phone.md"
+        "commit": "fcf2d72ba65e03b5a09d4010851de8976785d096",
+        "hash": "4098652200",
+        "path": "outstatic/content/posts/15-common-misconceptions-about-health.md"
       },
       "author": {
         "name": "Rajdeep singh",
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_1280.jpg",
-      "description": "Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation proident quis.",
-      "publishedAt": "2023-11-04T08:32:09.787Z",
-      "slug": "seven-mind-blowing-facts-about-smart-phone",
+      "coverImage": "https://cdn.pixabay.com/photo/2020/04/04/07/32/raspberries-and-blackberries-5001160_1280.jpg",
+      "description": "Do consectetur culpa pariatur nulla fugiat. ",
+      "publishedAt": "2023-11-03T18:33:20.346Z",
+      "slug": "15-common-misconceptions-about-health",
       "status": "published",
       "tags": [
         {
-          "label": "Facts",
-          "value": "facts"
+          "label": "Health",
+          "value": "health"
         }
       ],
-      "title": "Seven mind-blowing Facts About Smartphone"
+      "title": "15 Common Misconceptions About Health"
     },
     {
       "__outstatic": {
-        "commit": "99da79d3c089dc0f75effc32e55be2829acaacfb",
+        "commit": "373bb3f1953ddebe5042afe2d29a686f431262d2",
+        "hash": "2173636966",
+        "path": "outstatic/content/posts/10-things-you-most-likely-didnt-know-about-health.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_1280.jpg",
+      "description": "Consequat proident magna dolor labore et esse aute dolor sit ea.",
+      "publishedAt": "2023-11-03T18:26:18.976Z",
+      "slug": "10-things-you-most-likely-didnt-know-about-health",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Health",
+          "value": "health"
+        }
+      ],
+      "title": "10 Things You Most Likely Didn't Know About Health."
+    },
+    {
+      "__outstatic": {
+        "commit": "83b0ce841083e82df559539589e13b9d13f36c82",
+        "hash": "1858011969",
+        "path": "outstatic/content/pages/terms-and-conditions.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "These terms and conditions outline the rules and regulations for the use of Test com's Website, located at test.com.",
+      "publishedAt": "2023-11-07T16:41:48.524Z",
+      "slug": "terms-and-conditions",
+      "status": "published",
+      "title": "Terms and Conditions for Company Name"
+    },
+    {
+      "__outstatic": {
+        "commit": "8ed520209b3acfeca841a6ab7df187700f7b5803",
+        "hash": "1415918230",
+        "path": "outstatic/content/pages/privacy-policy.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "At Website Name, accessible at Website.com, one of our main priorities is the privacy of our visitors. ",
+      "publishedAt": "2023-11-07T16:36:47.628Z",
+      "slug": "privacy-policy",
+      "status": "published",
+      "title": "Privacy Policy"
+    },
+    {
+      "__outstatic": {
+        "commit": "5f20af323dbe3ca853ce2f3838e01e051206710e",
+        "hash": "4285223575",
+        "path": "outstatic/content/pages/about-us.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "Proin fermentum leo vel orci. Dui faucibus in ornare quam viverra orci sagittis eu.",
+      "publishedAt": "2023-11-07T16:34:30.150Z",
+      "slug": "about-us",
+      "status": "published",
+      "title": "About us"
+    },
+    {
+      "__outstatic": {
+        "commit": "388876ba9b385f13c26e8948f83c197a0f9c1095",
         "hash": "2146761856",
         "path": "outstatic/content/posts/cillum-cupidatat-proident-fugiat-aute.md"
       },
@@ -52,31 +130,31 @@
     },
     {
       "__outstatic": {
-        "commit": "5967183d26f067db2e69724230987f2aea35907d",
-        "hash": "2763617556",
-        "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
+        "commit": "b138551d7af280a02ed9d07c35a115374698186b",
+        "hash": "1236498371",
+        "path": "outstatic/content/posts/7-ways-to-use-computer-science-to-your-advantage.md"
       },
       "author": {
         "name": "Rajdeep singh",
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
-      "description": "Irure tempor nisi consequat et veniam ad est.",
-      "publishedAt": "2023-11-03T18:46:38.898Z",
-      "slug": "python-vs-rust-vs-javascript",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+      "description": "ipsum veniam excepteur duis mollit irure cillum.",
+      "publishedAt": "2023-11-03T18:20:32.123Z",
+      "slug": "7-ways-to-use-computer-science-to-your-advantage",
       "status": "published",
       "tags": [
         {
-          "label": "language",
-          "value": "language"
+          "label": "computer science",
+          "value": "computerScience"
         }
       ],
-      "title": "Python vs Rust vs JavaScript "
+      "title": "7 Ways To Use Computer Science To Your Advantage."
     },
     {
       "__outstatic": {
-        "commit": "565242b431115df9b16093f7ab052f8fd8f81e29",
+        "commit": "e005189160c711a97be6dd39647a5f6c98df01d1",
         "hash": "2734825843",
         "path": "outstatic/content/posts/15-facts-you-never-knew-about-photography.md"
       },
@@ -104,79 +182,31 @@
     },
     {
       "__outstatic": {
-        "commit": "817972e91f99bb9b4f939cac03cec802665ac372",
-        "hash": "4098652200",
-        "path": "outstatic/content/posts/15-common-misconceptions-about-health.md"
+        "commit": "ecf65d28338b03eb8e1796acb9c318b48f65c56f",
+        "hash": "2134724316",
+        "path": "outstatic/content/posts/5-reasons-why-you-shouldnt-learn-photography-on-your-own.md"
       },
       "author": {
         "name": "Rajdeep singh",
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2020/04/04/07/32/raspberries-and-blackberries-5001160_1280.jpg",
-      "description": "Do consectetur culpa pariatur nulla fugiat. ",
-      "publishedAt": "2023-11-03T18:33:20.346Z",
-      "slug": "15-common-misconceptions-about-health",
+      "coverImage": "",
+      "description": "Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.",
+      "publishedAt": "2023-11-03T18:05:55.855Z",
+      "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
       "status": "published",
       "tags": [
         {
-          "label": "Health",
-          "value": "health"
+          "label": "Photography",
+          "value": "photography"
         }
       ],
-      "title": "15 Common Misconceptions About Health"
+      "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
     },
     {
       "__outstatic": {
-        "commit": "90a28cc9b2e85e695530ad6e6062f3f71241e031",
-        "hash": "2173636966",
-        "path": "outstatic/content/posts/10-things-you-most-likely-didnt-know-about-health.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_1280.jpg",
-      "description": "Consequat proident magna dolor labore et esse aute dolor sit ea.",
-      "publishedAt": "2023-11-03T18:26:18.976Z",
-      "slug": "10-things-you-most-likely-didnt-know-about-health",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Health",
-          "value": "health"
-        }
-      ],
-      "title": "10 Things You Most Likely Didn't Know About Health."
-    },
-    {
-      "__outstatic": {
-        "commit": "57399102c96e8cb2127d814b359e367b15400e08",
-        "hash": "1236498371",
-        "path": "outstatic/content/posts/7-ways-to-use-computer-science-to-your-advantage.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
-      "description": "ipsum veniam excepteur duis mollit irure cillum.",
-      "publishedAt": "2023-11-03T18:20:32.123Z",
-      "slug": "7-ways-to-use-computer-science-to-your-advantage",
-      "status": "published",
-      "tags": [
-        {
-          "label": "computer science",
-          "value": "computerScience"
-        }
-      ],
-      "title": "7 Ways To Use Computer Science To Your Advantage."
-    },
-    {
-      "__outstatic": {
-        "commit": "1e065ebf751cf030d96274b2d19f0b2bbe62a04f",
+        "commit": "10627b9d499db78e82b1478e061e91bd17d92761",
         "hash": "522806384",
         "path": "outstatic/content/posts/7-useful-tips-from-python-experts-in-programming.md"
       },
@@ -204,55 +234,31 @@
     },
     {
       "__outstatic": {
-        "commit": "fccaeb0d54e41b15a9428403d6a16803f509b333",
-        "hash": "2134724316",
-        "path": "outstatic/content/posts/5-reasons-why-you-shouldnt-learn-photography-on-your-own.md"
+        "commit": "0f1bd5f685499baa474b9da62e3dc4c12bc927c3",
+        "hash": "1040304714",
+        "path": "outstatic/content/posts/seven-mind-blowing-facts-about-smart-phone.md"
       },
       "author": {
         "name": "Rajdeep singh",
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
       "collection": "posts",
-      "coverImage": "",
-      "description": "Laboris nostrud id non fugiat ad. Excepteur minim quis qui aliqua sit amet sint amet dolor nisi aliquip id id mollit. Aliqua anim consectetur mollit do Lorem culpa.",
-      "publishedAt": "2023-11-03T18:05:55.855Z",
-      "slug": "5-reasons-why-you-shouldnt-learn-photography-on-your-own",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/12/09/11/33/smartphone-1894723_1280.jpg",
+      "description": "Adipisicing aliqua amet adipisicing consequat eiusmod anim exercitation proident quis.",
+      "publishedAt": "2023-11-04T08:32:09.787Z",
+      "slug": "seven-mind-blowing-facts-about-smart-phone",
       "status": "published",
       "tags": [
         {
-          "label": "Photography",
-          "value": "photography"
+          "label": "Facts",
+          "value": "facts"
         }
       ],
-      "title": "5 Reasons Why You Shouldn't Learn Photography On Your Own."
+      "title": "Seven mind-blowing Facts About Smartphone"
     },
     {
       "__outstatic": {
-        "commit": "27ae6aca3627778845a09e691b3da9fb6faafd9a",
-        "hash": "1891252881",
-        "path": "outstatic/content/posts/hello-how-are-you.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
-      "description": "Lorem aliqua cupidatat laborum anim. Ad eu minim qui dolor. Ea ad deserunt ut deserunt. ",
-      "publishedAt": "2023-10-25T11:25:31.659Z",
-      "slug": "hello-how-are-you",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Hello world",
-          "value": "helloWorld"
-        }
-      ],
-      "title": "Hello, How are you"
-    },
-    {
-      "__outstatic": {
-        "commit": "8142e597ed17fd4a7fc8de449403b61e692d4fd9",
+        "commit": "d043e423d931a6bdd77e495346e677dc521e47cb",
         "hash": "623286131",
         "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
       },
@@ -276,7 +282,31 @@
     },
     {
       "__outstatic": {
-        "commit": "ff820051ce754fde63ec3e531e6d72b9ef239a08",
+        "commit": "073db4125d4aafe5043ac12cf3ab305fb8fb4c59",
+        "hash": "2763617556",
+        "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
+      "description": "Irure tempor nisi consequat et veniam ad est.",
+      "publishedAt": "2023-11-03T18:46:38.898Z",
+      "slug": "python-vs-rust-vs-javascript",
+      "status": "published",
+      "tags": [
+        {
+          "label": "language",
+          "value": "language"
+        }
+      ],
+      "title": "Python vs Rust vs JavaScript "
+    },
+    {
+      "__outstatic": {
+        "commit": "e2ef3bf7ed0630b6a3f6e882d494752dd6b34db2",
         "hash": "1246431022",
         "path": "outstatic/content/posts/hello-world.md"
       },
@@ -300,57 +330,27 @@
     },
     {
       "__outstatic": {
-        "commit": "3e13a7172b059d142c8396312fbc5f299db07807",
-        "hash": "1415918230",
-        "path": "outstatic/content/pages/privacy-policy.md"
+        "commit": "ec9b144d6635d070a9b6036281cb36416deca6ab",
+        "hash": "1891252881",
+        "path": "outstatic/content/posts/hello-how-are-you.md"
       },
       "author": {
         "name": "Rajdeep singh",
         "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
       },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "At Website Name, accessible at Website.com, one of our main priorities is the privacy of our visitors. ",
-      "publishedAt": "2023-11-07T16:36:47.628Z",
-      "slug": "privacy-policy",
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2023/10/14/07/05/sage-8314234_1280.jpg",
+      "description": "Lorem aliqua cupidatat laborum anim. Ad eu minim qui dolor. Ea ad deserunt ut deserunt. ",
+      "publishedAt": "2023-10-25T11:25:31.659Z",
+      "slug": "hello-how-are-you",
       "status": "published",
-      "title": "Privacy Policy"
-    },
-    {
-      "__outstatic": {
-        "commit": "71942d0e509700a86f9e6aad001d7f5276193ce4",
-        "hash": "4285223575",
-        "path": "outstatic/content/pages/about-us.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "Proin fermentum leo vel orci. Dui faucibus in ornare quam viverra orci sagittis eu.",
-      "publishedAt": "2023-11-07T16:34:30.150Z",
-      "slug": "about-us",
-      "status": "published",
-      "title": "About us"
-    },
-    {
-      "__outstatic": {
-        "commit": "9425f8fecf1663cbec75caf27f631b74a74da7fb",
-        "hash": "1858011969",
-        "path": "outstatic/content/pages/terms-and-conditions.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "These terms and conditions outline the rules and regulations for the use of Test com's Website, located at test.com.",
-      "publishedAt": "2023-11-07T16:41:48.524Z",
-      "slug": "terms-and-conditions",
-      "status": "published",
-      "title": "Terms and Conditions for Company Name"
+      "tags": [
+        {
+          "label": "Hello world",
+          "value": "helloWorld"
+        }
+      ],
+      "title": "Hello, How are you"
     }
   ]
 }
