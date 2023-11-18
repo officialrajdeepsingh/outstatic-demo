@@ -15,9 +15,7 @@ Duis velit nisi pariatur incididunt culpa commodo ex nisi cillum culpa nisi aliq
 
 Cupidatat occaecat dolore dolor aute enim consequat nulla dolor dolor reprehenderit irure reprehenderit nisi.
 
-
-
-![Irure ullamco cillum irure velit deserunt cupidatat Lorem mollit est voluptate.](https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567_1280.jpg> "an-image-title")
+![](https://cdn.pixabay.com/photo/2023/11/08/23/23/common-kingfisher-8376008_1280.jpg)
 
 ### Occaecat cupidatat
 
@@ -41,9 +39,9 @@ Do dolor cupidatat ullamco voluptate aute cupidatat eu minim ut amet Lorem. Irur
 
 ### Enim sunt
 
-Enim sunt fugiat commodo exercitation commodo tempor sint reprehenderit consectetur sint amet nisi. Ad dolor cupidatat laboris amet nostrud amet.<br>
+Enim sunt fugiat commodo exercitation commodo tempor sint reprehenderit consectetur sint amet nisi. Ad dolor cupidatat laboris amet nostrud amet.&lt;br&gt;
 
-![Consectetur sint amet nisi](https://cdn.pixabay.com/photo/2011/12/14/12/21/orion-nebula-11107_1280.jpg> "an-image-title")
+![Consectetur sint amet nisi](https://cdn.pixabay.com/photo/2011/12/14/12/21/orion-nebula-11107_1280.jpg%3E "an-image-title")
 
 In non incididunt mollit ad elit elit veniam deserunt fugiat esse ipsum. Exercitation Lorem ex incididunt officia ea in exercitation.
 
@@ -52,4 +50,3 @@ In non incididunt mollit ad elit elit veniam deserunt fugiat esse ipsum. Exercit
 Anim commodo aute fugiat pariatur labore. Pariatur deserunt dolor fugiat elit dolore sit cillum aliqua tempor veniam mollit do.
 
 Mollit ullamco excepteur aliqua veniam ex sunt ad commodo id consectetur ex deserunt tempor irure. Aute occaecat sit deserunt ex adipisicing eiusmod.
-

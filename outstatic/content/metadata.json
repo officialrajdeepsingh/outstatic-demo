@@ -1,6 +1,6 @@
 {
-  "commit": "4dee7dbf82095fae925ab8b03255cc36a173348d",
-  "generated": "Sat, 18 Nov 2023 10:02:46 GMT",
+  "commit": "61d8f49ea96248b9e78de817bcfcbd766e2dbb01",
+  "generated": "2023-11-18T10:07:17.372Z",
   "metadata": [
     {
       "__outstatic": {
@@ -258,30 +258,6 @@
     },
     {
       "__outstatic": {
-        "commit": "d043e423d931a6bdd77e495346e677dc521e47cb",
-        "hash": "623286131",
-        "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
-      },
-      "author": {
-        "name": "Rajdeep singh",
-        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg",
-      "description": "Consectetur sint amet nisi",
-      "publishedAt": "2023-11-03T19:12:42.138Z",
-      "slug": "how-computer-science-is-going-to-change-your-business-strategies",
-      "status": "published",
-      "tags": [
-        {
-          "label": "computer science",
-          "value": "computerScience"
-        }
-      ],
-      "title": "How Computer Science Is Going To Change Your Business Strategies?"
-    },
-    {
-      "__outstatic": {
         "commit": "073db4125d4aafe5043ac12cf3ab305fb8fb4c59",
         "hash": "2763617556",
         "path": "outstatic/content/posts/python-vs-rust-vs-javascript.md"
@@ -351,6 +327,30 @@
         }
       ],
       "title": "Hello, How are you"
+    },
+    {
+      "__outstatic": {
+        "commit": "61d8f49ea96248b9e78de817bcfcbd766e2dbb01",
+        "hash": "1152448296",
+        "path": "outstatic/content/posts/how-computer-science-is-going-to-change-your-business-strategies.md"
+      },
+      "author": {
+        "name": "Rajdeep singh",
+        "picture": "https://avatars.githubusercontent.com/u/32416397?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg",
+      "description": "Consectetur sint amet nisi",
+      "publishedAt": "2023-11-03T19:12:42.138Z",
+      "slug": "how-computer-science-is-going-to-change-your-business-strategies",
+      "status": "published",
+      "tags": [
+        {
+          "label": "computer science",
+          "value": "computerScience"
+        }
+      ],
+      "title": "How Computer Science Is Going To Change Your Business Strategies?"
     }
   ]
 }
