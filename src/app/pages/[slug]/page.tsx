@@ -1,11 +1,10 @@
 import { notFound } from "next/navigation"
 import { OstDocument } from "outstatic";
 import { getDocumentSlugs, load } from 'outstatic/server'
-import dayjs from 'dayjs';
 import markdownToHtml from '@/lib/markdownToHtml'
-import Image from "next/image";
 import { Metadata } from "next";
 import { absoluteUrl } from "@/lib/utils"
+import { Article } from "@/components/Article/Article"
 
 type Pages = {
     tags: { value: string; label: string }[]
@@ -57,19 +56,15 @@ export default async function Pages(params: Params) {
     const pages = await getData(params)
 
     return (
-        <main className="container mx-auto pt-8 pb-16 lg:pt-16 lg:pb-24 antialiased">
+        <main className="mx-auto pt-8 pb-16 lg:pt-16 lg:pb-24 antialiased">
 
-            <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
-                <div className="mx-auto w-full max-w-4xl prose-p:my-3 prose lg:prose-2xl prose-blue dark:prose-invert">
-                    <h1 className="mb-2 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-4xl dark:text-white">{pages.title} </h1>
-                    <p className="text-gray-400 my-1">{pages.description}</p>
-                </div>
+            <div className="px-3 md:px-0 container max-w-4xl mx-auto w-full">
+                <h1 className="mb-2 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-3 lg:text-4xl dark:text-white">{pages.title} </h1>
+                <p className="text-gray-400 my-1">{pages.description}</p>
             </div>
 
-            <article className="px-3 mx-auto w-full max-w-4xl prose lg:prose-xl prose-blue dark:prose-invert" dangerouslySetInnerHTML={{
-                __html: pages.content
-            }}>
-            </article>
+            <Article content={pages.content} />
+
         </main>
     )
 }
